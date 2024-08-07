@@ -1,0 +1,120 @@
+.container {
+    position: relative;
+    max-width: 700px;
+    margin: 0 auto;
+    border-radius: 0.25em;
+}
+
+h1 small,
+h2 small {
+    font-weight: 100;
+}
+
+li {
+    height: 1.10em;
+    margin-bottom: 1.0em;
+}
+
+/* Set the line station list */
+.line {
+    list-style-type: none;
+    padding: 0;
+    position: relative;
+}
+
+/* Line color */
+.line--m2 {
+    border-left: 5px solid transparent;
+    padding-left: 10px;
+}
+
+/* station--default: place the station name to the right of the line and add normal station circle */
+.station {
+    position: relative;
+    padding-left: 1em;
+    line-height: 1.75em;
+}
+
+.station--default::before,
+.station--start::before,
+.station--end::before,
+.station--end2::before {
+    visibility: hidden;
+    content: "";
+    position: absolute;
+    left: -1.2em;
+    height: 15px;
+    width: 15px;
+    margin-top: 0.425em;
+    border: 3px solid var(--line-color);
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.station--start::before {
+    height: 20px;
+    width: 20px;
+    border: 2px solid var(--line-color);
+    border-radius: 999px;
+    left: -1.35em;
+    top: -0.5em;
+    background-color: var(--line-color);
+}
+
+.station--end2::before {
+    height: 20px;
+    width: 20px;
+    border: 2px solid var(--line-color);
+    border-radius: 999px;
+    left: -1.35em;
+    top: -0.2em;
+    background-color: var(--line-color);
+}
+
+.station--end::before {
+    margin-top: 0.625em;
+}
+
+.station--end2::before {
+    margin-top: 0.625em;
+}
+
+/* Place connection list at the right of the line */
+.connections {
+    position: absolute;
+    display: inline;
+}
+
+/* Display lines inline and set the padding between each of them */
+.connections__line {
+    display: inline-block;
+    padding-left: 0.25em;
+    line-height: 1.75em;
+}
+
+.connections__line svg {
+    height: 1em;
+    width: 1em;
+}
+
+/* Badges */
+.badge {
+    display: inline-block;
+    width: 0.8em;
+    height: 0.8em;
+    font-size: 0.8em;
+    line-height: 0.8em;
+    padding: 0.25em;
+    text-align: center;
+    color: #fff;
+    border: 1px solid rgba(75, 75, 75, 0.5);
+    text-shadow: rgba(75, 75, 75, 0.5) 1px 0px, rgba(75, 75, 75, 0.5) 0px 1px, rgba(75, 75, 75, 0.5) -1px 0px, rgba(75, 75, 75, 0.5) 0px -1px;
+}
+
+/* Style for metro */
+
+
+.label {
+    position: inherit;
+    top: -19%;
+}

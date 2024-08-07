@@ -1,0 +1,4786 @@
+{
+    "currentTime": 1722878992101,
+    "version": 2,
+    "status": "OK",
+    "code": 200,
+    "text": "OK",
+    "data": {
+      "limitExceeded": false,
+      "entry": {
+        "id": "BKK_Z30",
+        "shortName": "Z30",
+        "description": "Székesfehérvár | Budapest-Déli",
+        "type": "RAIL",
+        "color": "FFCD28",
+        "textColor": "3C3C3C",
+        "agencyId": "BKK_START",
+        "iconDisplayType": "BOX",
+        "iconDisplayText": "Z30",
+        "bikesAllowed": false,
+        "style": {
+          "color": "FFCD28",
+          "icon": {
+            "type": "BOX",
+            "text": "Z30",
+            "textColor": "3C3C3C"
+          },
+          "vehicleIcon": {
+            "name": "rail"
+          },
+          "groupId": 4
+        },
+        "sortOrder": 35,
+        "variants": [
+          {
+            "name": "Z30-as Székesfehérvár felé",
+            "stopIds": [
+              "BKK_005501016_0",
+              "BKK_005501024_0",
+              "BKK_005503152_0",
+              "BKK_005503160_0",
+              "BKK_005503178_0",
+              "BKK_005503186_0",
+              "BKK_005503194_0",
+              "BKK_005503202_0",
+              "BKK_005503210_0",
+              "BKK_005503228_0",
+              "BKK_005503236_0",
+              "BKK_005503244_0",
+              "BKK_005503103_0",
+              "BKK_005503269_0"
+            ],
+            "mayRequireBooking": false,
+            "bookableStopIds": [],
+            "direction": "0",
+            "headsign": "Székesfehérvár",
+            "polyline": {
+              "levels": "",
+              "points": "ee|`HgwbsBlCy@@A@?@A@?BA@?@A@A@?@A@?@A@?@A@A@?@?@A@?@A@?@A??@A@?@A@?@A@?@?@A@A@?@A@?@A@?@AB?@A@?@A@?@A@AB?BABABABABADABABABABABABABAB?hDgAf@Q^MLE\\Kh@O\\M\\KLE\\KdA[j@S?A@?@?@A??@?@A??@?@A@???@A@?@??A@?@A@?@??A@?@A@?@A@???@A@?@A`Bw@x@a@HC\\QbCkAlEuBLGNIHCJGLGDEFCFEVOHGHEHGHGBEFEFGFEPONOLKJKpCkCb@a@HGLKDGHGLIDEDEDCDCFEDCFEPINIJGLGHCx@_@PI`@QVI\\M`@MTGJCFALCLCLCRCTCVCTALAJ?HAV?R?R?V?L@R@T@RBRBPBPBPDXFTDRFND\\LB@D@LD^NPHNFFBFBDBFBDDLFJFFDNHHDra@vVjTtMVNRLJFJFTLRJ\\Rf@V`Af@TLLHNFLHFBXLXLVLVJJDJDJDJDJDJDJDHDHBJDRFTHTF^LPFPDNDNDPDXHNBLDLBZFTDJBZFTDF?ZFVBJBL@LBJ@PB\\Bb@DdD^lB`@\\HZF^HXFRDb@DnALbBL\\Dz@Ft@FdAJt@Fz@FRBpK|@N@R@P@F@D?H@J?H?T?L@J?H?D@D?R?T?J?JAJ?B?H?F?NAF?jGUbCIXAX?\\@J@R@f@@H@\\@^Ap@Cn@CL?PA`@CB?D?@?t@GrB[FAHAHADAD?BADABAh@OHCFCHCHEFCHCFCHEHEFEFCDEFEDEFEDEFEDE^_@BCBCBA@CBCBC@CBC@CFI@CFIDIDIFIDIJSJQHOZq@^y@Ra@^y@Rc@Ra@FKBIRc@V_@DIDGV_@JSHKfAcBR]NUPYHMFKHKFIDGHOJMHKJMJMJMBCFGFGDEFGFEFGDCFEDENMLIJIZSBADC~BuArHkEfCyAhEeCpHiE|EsCrEkC\\S^Uj@[xBgA^Sx@a@rBeAVOj@[VONIj@]~G_E^SpBkAh@]f@[r@e@rAy@`Ak@nBiAhBeAd@YvA{@dBgAzDeClBmA^UpAw@jAq@bAi@x@a@t@]x@]~@_@bA_@x@Wz@W|@UfBc@n@Mn@Ml@Kh@Ir@KrAQRC|BUp@EfAIVAdPK~Iu@j@C~AGvAExAEvHW`@A`@Cf@ApAA^?|@@t@FjANp@Nx@Tb@Pn@VlAp@fAv@~@z@XXh@n@h@r@Zd@V`@b@v@`@v@Zp@`@|@h@nA\\`ARf@@Df@rAj@~AfB~E`BrEfB|El@`BrAvDxA~Dn@fBRj@r@pBbApCfB|EbC|GpCxHzBhG`BrEh@xAv@xBjAdDjAdDbArCh@xAv@vBtAzDdBxE~@fC|@hCdApCdAvCd@pAVp@xA|Dn@dBj@~AdAtCjCjH`CxGxBdG~DzKp@lBHRvA|DdApCp@hBrAjDN`@|@`CtAvDj@|AfB~Eb@nAj@zAxBhGxA~DDJx@xB`@jAPd@Vr@Pf@Vt@?@Ph@Tp@Nd@Pn@Nl@VbA@DNl@Lf@Ll@Jh@Hb@Jf@Jn@RpAPrANhANxAX|CXfDTnCl@bHjBfThDj`@L|A@JZjD^lEFp@?B\\`EPfBTnCH~@D\\PpB??NhBr@hIfA~LVzC@FjAbNnAxNd@pFfAfMH|@Fj@lDpa@nB~T@FPxBt@vIvAdPv@|IjA~MTpC\\~DL|Af@|FRxB~BjX|BvWTnClCxZn@~GB^RzBlA`NFr@tB~UbCjYt@nI~A`RTfCH~@LtARhBNrAP|ADZL`AJn@RnAT|ARdAVzANp@H^P|@BJXnAXjAVdAXdA^tA\\jAX|@f@|AL\\v@|BpBrFbArClEtLbBxEhA~CBDpEdMXv@`@hAPf@@Bb@hANd@BD`@hA@BPf@b@jAZ|@\\|@b@nAdBzEx@zBnCrH|DzKtI~UBDnCrHNb@FN`@hARj@pAjDXv@b@lADJxH|SPh@pDtJxBbGrL`\\lV~p@zFxOtJ|WrIrUvOvb@nIhUpFhObBxEbD|IdJ|VdD~I|AfEtGrQlDpJjMp]rPpd@nAhDzB`G|BfGnAlDfB|EzIdVDFpAnDfCrGd@jAtA|C~@nBFN`AlBd@~@DF|BdEd@v@~@|Aj@~@z@pAn@~@|@nAlAdBVXd@n@VXxHrJnErF`@f@f@n@n@v@f@l@l@x@^b@^b@bApATVn@v@V\\DFzDzEZ^DFzIxK`BpBdJbL|IzKxNtQrHhJxMjPhNbQ`J~KtInKfKfMrA~AbD|D~D~EhC`D\\b@bGnH`P`StClDjCdDnPrSzGhIvGhIxGhIvGhIvGhIjB|BTVrAbBLP`NrPnM`PfFnGpPtSdFlGx@bAb@h@dLlNnA~ATXfC|CxGhIxGhIvGfIxGjIbFhGnIhKpG`IBDhJhLZ^n@v@f@n@n@v@b@h@tAdB`BnBnLzNj@p@p@z@dApAlCdDdArApChDd@j@n@v@tF`Hn@v@TVDDbKfMjDhEtAdB`@h@x@jAj@z@zAfC\\j@`@t@v@|Ad@`Ad@dAd@fAjAjCt@fBdDvHj@tAfM|Yr@`BjBjEnBtEz@pBdB~Dx@pBbBdEp@fBzAxD\\|@b@dAz@tBr@`BZp@?@\\x@\\x@l@tAt@`BtAzCvAzC`BjDd@dAdBxDrAzCfL`XtAdDn@|Af@lAh@tAd@nA~@|BtAjDtAfDP`@jAnCn@xAt@bBb@bAr@~A~@pBn@rAh@jAhAbCrBnEt@dBbB|DvHjQvGpOv@fBrLzXFJlDjIP`@hBdEBHTf@d@fATf@b@fAd@fAVh@LZrDrI`@~@jChGj@vAb@fAd@lARh@d@lAb@jABHd@nATp@`@fAfA|Cp@rBBFRl@^lAPj@tCnJ\\jARl@^lANf@DLnDnL~AhF`@tAb@tAl@rBh@fBb@~Aj@rB`AnDDLLf@Pn@Rp@rBdHr@zB`A~CX~@\\bAZ~@\\bAjAjDbA~Cx@dCpDtLxCvJx@nCfDxKlGxS~EdPtIhYRn@hVbx@fPli@nC~InBpGpDrLxDfMZfAr@|B~@dDx@dD`@fBXxAZdBV|ATbBXxBDZT~BNnBRdDHxAH~BHvBHbCFtAZtJzCx|@TzGH`C\\rJ|Abd@pA~_@`@fLFnBD`Ah@|OjBzi@~@zW\\hKb@nMrCny@jA|\\z@lVr@zSRdGR|FF~A`@lLRjGDdBD~C?dBAjBC`BOzEKrBSlCUfC_@zCo@fEYzAo@xCa@~A]pAUv@[dA[~@e@lA]~@k@rAc@`Ae@bA[j@S\\{AhC{A~B_B~Bc^th@}OtUu@hAqAnBw@rA_AfB]x@_@x@c@jAa@fA]jA]lAUx@]xAQ|@UnAQhAIf@WtBKbAUrCKjBE`AEbBAzAAnA@pB?R?R@V?X@L?J?J@V@V@V@T@V@b@@N@N@L?L@LBTBZBX@VBXBVH|@@H@H?B?D@B@D?BHd@Hh@Hh@Jh@RtARjAV~ARz@DNDXFXDNDTPv@FXPx@Nl@Pv@FXH^DVJl@BP@BNfAJl@@D@B?B@D@B@B?B@D@B@B@B?D@B@B@B?@?????@?????@@????@???????@??@@???@???@@@???@???@@@???@???@@B?@@B?@@B?@@B?@@B?B@@?B@@?B@@F\\lEjSd@~B",
+              "length": 1206
+            },
+            "pattern": true,
+            "patternSequence": -999,
+            "patternRouteClass": "priority"
+          },
+          {
+            "name": "Z30-as Székesfehérvár indulással",
+            "stopIds": [
+              "BKK_005503269_0",
+              "BKK_005503103_0",
+              "BKK_005503244_0",
+              "BKK_005503236_0",
+              "BKK_005503228_0",
+              "BKK_005503210_0",
+              "BKK_005503202_0",
+              "BKK_005503194_0",
+              "BKK_005503186_0",
+              "BKK_005503178_0",
+              "BKK_005503160_0",
+              "BKK_005503152_0",
+              "BKK_005501024_0",
+              "BKK_005501016_0"
+            ],
+            "mayRequireBooking": false,
+            "bookableStopIds": [],
+            "direction": "1",
+            "headsign": "Budapest-Déli",
+            "polyline": {
+              "levels": "",
+              "points": "ck~~GknmoBe@_CmEkSG]AA?CAA?CAA?CAC?AAC?AAC?AAC?AAC?A???A??AA?A???A??AA?A???A??AA???A???????A??A??A?????A?????AACACAC?EACACACAE?CACACAE?CACAEKm@OgAACCQKm@EWI_@GYQw@Om@Qy@GYQw@EUEOGYEYEOS{@W_BSkASuAKi@Ii@Ii@Ie@?CAEAC?E?CAIAII}@CWCYAWCYC[CUAM?MAMAOAOAc@AWAUAWAWAW?K?KAM?YAW?S?SAqB@oA@{ADcBDaAJkBTsCJcAVuBHg@PiAToAP}@\\yATy@\\mA\\kA`@gAb@kA^y@\\y@~@gBv@sApAoBt@iA|OuUb^uh@~A_CzA_CzAiCR]Zk@d@cAb@aAj@sA\\_Ad@mAZ_AZeATw@\\qA`@_Bn@yCX{An@gE^{CTgCRmCJsBN{EBaB@kB?eBE_DEeBSkGa@mLG_BS}FSeGs@{S{@mVkA}\\sCoy@c@oM]iK_A{WkB{i@i@}OEaAGoBa@gLqA_`@}Acd@]sJIaCU{G{Cy|@[uJGuAIcCIwBI_CIyASeDOoBU_CE[YyBUcBW}A[eBYyAa@gBy@eD_AeDs@}B[gAyDgMqDsLoBqGoC_JgPmi@iVcx@So@uIiY_FePmGySgDyKy@oCyCwJqDuLy@eCcA_DkAkD]cA[_A]cAY_AaA_Ds@{BsBeHSq@Qo@Mg@EMaAoDk@sBc@_Bi@gBm@sBc@uAa@uA_BiFoDoLEMOg@_@mASm@]kAuCoJQk@_@mASm@CGq@sBgA}Ca@gAUq@e@oACIc@kAe@mASi@e@mAc@gAk@wAkCiGa@_AsDsIM[Wi@e@gAc@gAUg@e@gAUg@CIiBeEQa@mDkIGKsL{Xw@gBwGqOwHkQcB}Du@eBsBoEiAcCi@kAo@sA_AqBs@_Bc@cAu@cBo@yAkAoCQa@uAgDuAkD_A}Be@oAi@uAg@mAo@}AuAeDgLaXsA{CeByDe@eAaBkDwA{CuA{Cu@aBm@uA]y@]y@?A[q@s@aB{@uBc@eA]}@{AyDq@gBcBeEy@qBeB_E{@qBoBuEkBkEs@aBgM}Yk@uAeDwHu@gBkAkCe@gAe@eAe@aAw@}Aa@u@]k@{AgCk@{@y@kAa@i@uAeBkDiEcKgMEEUWo@w@uFaHo@w@e@k@qCiDeAsAmCeDeAqAq@{@k@q@oL{NaBoBuAeBc@i@o@w@g@o@o@w@[_@iJiLCEqGaIoIiKcFiGyGkIwGgIyGiIyGiIgC}CUYoA_BeLmNc@i@y@cAeFmGqPuSgFoGoMaPaNsPMQsAcBUWkB}BwGiIwGiIyGiIwGiI{GiIoPsSkCeDuCmDaPaScGoH]c@iCaD_E_FcD}DsA_BgKgMuIoKaJ_LiNcQyMkPsHiJyNuQ}I{KeJcLaBqB{IyKEG[_@{D{EEGW]o@w@UWcAqA_@c@_@c@m@y@g@m@o@w@g@o@a@g@oEsFyHsJWYe@o@WYmAeB}@oAo@_A{@qAk@_A_A}Ae@w@}BeEEGe@_AaAmBGO_AoBuA}Ce@kAgCsGqAoDEG{IeVgB}EoAmD}BgG{BaGoAiDsPqd@kMq]mDqJuGsQ}AgEeD_JeJ}VcD}IcByEqFiOoIiUwOwb@sIsUuJ}W{FyOmV_q@sLa\\yBcGqDuJQi@yH}SEKc@mAYw@qAkDSk@a@iAGOOc@oCsHCEuI_V}D{KoCsHy@{BeB{Ec@oA]}@[}@c@kAQg@ACa@iACEOe@c@iAACQg@a@iAYw@qEeMCEiA_DcByEmEuLcAsCqBsFw@}BM]g@}AY}@]kA_@uAYeAWeAYkAYoACKQ}@I_@Oq@W{ASeAU}ASoAKo@MaAE[Q}AOsASiBMuAI_AUgC_BaRu@oIcCkYuB_VGs@mAaNS{BC_@o@_HmCyZUoC}BwW_CkXSyBg@}FM}A]_EUqCkA_Nw@}IwAePu@wIQyBAGoB_UmDqa@Gk@I}@gAgMe@qFoAyNkAcNAGW{CgA_Ms@iIOiB??QqBE]I_AUoCQgB]aE?CGq@_@mE[kDAKM}AiDk`@kBgTm@cHUoCYgDY}COyAOiAQsASqAKo@Kg@Ic@Ki@Mm@Mg@Om@AEWcAOm@Qo@Oe@Uq@Qi@?AWu@Qg@Ws@Qe@a@kAy@yBEKyA_EyBiGk@{Ac@oAgB_Fk@}AuAwD}@aCOa@sAkDq@iBeAqCwA}DISq@mB_E{KyBeGaCyGkCkHeAuCk@_Bo@eByA}DWq@e@qAeAwCeAqC}@iC_AgCeByEuA{Dw@wBi@yAcAsCkAeDkAeDw@yBi@yAaBsE{BiGqCyHcC}GgB}EcAqCs@qBSk@o@gByA_EsAwDm@aBgB}EaBsEgB_Fk@_Bg@sAAESg@]aAi@oAa@}@[q@a@w@c@w@Wa@[e@i@s@i@o@YY_A{@gAw@mAq@o@Wc@Qy@Uq@OkAOu@G}@A_@?qA@g@@a@Ba@@wHVyADwAD_BFk@B_Jt@ePJW@gAHq@D}BTSBsAPs@Ji@Hm@Jo@Lo@LgBb@}@T{@Vy@VcA^_A^y@\\u@\\y@`@cAh@kAp@qAv@_@TmBlA{DdCeBfAwAz@e@XiBdAoBhAaAj@sAx@s@d@g@Zi@\\qBjA_@R_H~Dk@\\OHWNk@ZWNsBdAy@`@_@RyBfAk@Z_@T]RsEjC}ErCqHhEiEdCgCxAsHjE_CtAEBC@[RKHMHOLEDGDEBGFGDGFEDGFGFCBKLKLKLIJKLINEFGHIJGJILQXOTS\\gAbBIJKRW^EFEHW^Sb@CHGJS`@Sb@_@x@S`@_@x@[p@INKPKREHGHEHEHGHABGHABCBABCBCBABC@CBCB_@^EDGDEDGDEDGDEDGBGDIDIDGBIBGBIDIBGBIBi@NC@E@C@E?E@I@I@G@sBZu@FA?E?C?a@BQ@M?o@Bq@B_@@]AIAg@ASAKA]AY?Y@cCHkGTG?O@G?I?C?K?K@K?U?S?E?EAI?K?MAU?I?K?IAE?GAQASAOAqK}@SC{@Gu@GeAKu@G{@G]EcBMoAMc@ESEYG_@I[G]ImBa@eD_@c@E]CQCKAMCMAKCWC[GG?UE[GKCUE[GMCMEOCYIQEOEOEQEQG_@MUGUISGKEICIEKEKEKEKEKEKEKEWKWMYMYMGCMIOGMIUMaAg@g@W]SSKUMKGKGSMWOkTuMsa@wVIEOIGEKGMGEEGCECGCGCOGQI_@OMEEACA]MOESGUEYGQEQCQCSCSCUASAMAW?S?S?W?I@K?M@U@WBUBSBMBMBMBG@KBUFa@L]LWHa@PQHy@^IBMFKFOHQHGDEBGDEBEBEDEDMHIFEFMJIFc@`@qCjCKJMJONQNGDGFGDCDIFIFIDIFWNGDGBEDMFKFIBOHMFmEtBcCjA]PIBy@`@aBv@A@A?A@??A?A@A?A@A??@A?A?A@A??@A?A?A@??A?A@A???A@A???A@A?A??@k@ReAZ]JMD]J]Li@N]JMD_@Lg@PiDfAC?C@C@C@C@C@C@C@E@C@C@C@C@C@C?A@A@A?A@A?A@C?A@A?A@A?A@A?A@A@A?A?A@A?A@A?A@??A@A?A@A?A@A?A?A@A@A?A@A?A@A?A@A@A?C@A?A@A?A@mCx@",
+              "length": 1206
+            },
+            "pattern": true,
+            "patternSequence": -999,
+            "patternRouteClass": "priority"
+          }
+        ],
+        "alertIds": []
+      },
+      "references": {
+        "agencies": {
+          "BKK_BKK": {
+            "id": "BKK_BKK",
+            "name": "BKK",
+            "url": "http://www.bkk.hu",
+            "timezone": "Europe/Budapest",
+            "lang": "hu",
+            "phone": "+36 1 3 255 255"
+          },
+          "BKK_START": {
+            "id": "BKK_START",
+            "name": "MÁV-START",
+            "url": "https://www.mavcsoport.hu/",
+            "timezone": "Europe/Budapest",
+            "lang": "hu",
+            "phone": "+36 (1) 3 49 49 49"
+          },
+          "volan_volan": {
+            "id": "volan_volan",
+            "name": "Volánbusz Zrt.",
+            "url": "volanbusz.hu",
+            "timezone": "Europe/Budapest"
+          }
+        },
+        "routes": {
+          "BKK_3560": {
+            "id": "BKK_3560",
+            "shortName": "56",
+            "description": "Városház tér | Hűvösvölgy",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "56",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "56",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 169
+          },
+          "BKK_3561": {
+            "id": "BKK_3561",
+            "shortName": "56A",
+            "description": "Móricz Zs. körtér M | Hűvösvölgy",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "56A",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "56A",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 170
+          },
+          "BKK_1020": {
+            "id": "BKK_1020",
+            "shortName": "102",
+            "description": "Mártonhegy | Széll Kálmán tér M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "102",
+            "bikesAllowed": true,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "102",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 238
+          },
+          "volan_758": {
+            "id": "volan_758",
+            "shortName": "758",
+            "description": "Vereb, Szabadság tér | Székesfehérvár, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "758",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "758",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 680
+          },
+          "BKK_Sz": {
+            "id": "BKK_Sz",
+            "shortName": "Sz",
+            "description": "Személyvonat",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "Sz",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "Sz",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 52
+          },
+          "BKK_1540": {
+            "id": "BKK_1540",
+            "shortName": "154",
+            "description": "Infopark - BudaPart | Gazdagréti tér",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "154",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "154",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 294
+          },
+          "volan_759": {
+            "id": "volan_759",
+            "shortName": "759",
+            "description": "Martonvásár, vasútállomás | Székesfehérvár, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "759",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "759",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 681
+          },
+          "BKK_1530": {
+            "id": "BKK_1530",
+            "shortName": "153",
+            "description": "Infopark | Gazdagréti tér",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "153",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "153",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 293
+          },
+          "BKK_1410": {
+            "id": "BKK_1410",
+            "shortName": "141",
+            "description": "Savoya Park | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "141",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "141",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 281
+          },
+          "BKK_1015": {
+            "id": "BKK_1015",
+            "shortName": "101E",
+            "description": "Budatétény vá. (Campona) | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "101E",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "101E",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 237
+          },
+          "BKK_2500": {
+            "id": "BKK_2500",
+            "shortName": "250",
+            "description": "Savoya Park | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "250",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "250",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 371
+          },
+          "BKK_EC": {
+            "id": "BKK_EC",
+            "shortName": "EC",
+            "description": "EuroCity",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "EC",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "EC",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 42
+          },
+          "BKK_2502": {
+            "id": "BKK_2502",
+            "shortName": "250B",
+            "description": "Savoyai Jenő tér | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "250B",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "250B",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 372
+          },
+          "volan_750": {
+            "id": "volan_750",
+            "shortName": "750",
+            "description": "Pusztaszabolcs, templom | Székesfehérvár, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "750",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "750",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 677
+          },
+          "BKK_1390": {
+            "id": "BKK_1390",
+            "shortName": "139",
+            "description": "Széll Kálmán tér M | Gazdagréti tér",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "139",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "139",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 277
+          },
+          "volan_742": {
+            "id": "volan_742",
+            "shortName": "742",
+            "description": "Érd, autóbusz-állomás | Tárnok, autóbusz-forduló",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "742",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "742",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 671
+          },
+          "volan_741": {
+            "id": "volan_741",
+            "shortName": "741",
+            "description": "Tárnok, autóbusz-forduló | Érd, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "741",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "741",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 670
+          },
+          "volan_740": {
+            "id": "volan_740",
+            "shortName": "740",
+            "description": "Kápolnásnyék, vasútállomás | Székesfehérvár, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "740",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "740",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 669
+          },
+          "volan_747": {
+            "id": "volan_747",
+            "shortName": "747",
+            "description": "Székesfehérvár, autóbusz-állomás | Székesfehérvár, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "747",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "747",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 674
+          },
+          "BKK_G10": {
+            "id": "BKK_G10",
+            "shortName": "G10",
+            "description": "Győr | Budapest-Déli",
+            "type": "RAIL",
+            "color": "AACD46",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "G10",
+            "bikesAllowed": false,
+            "style": {
+              "color": "AACD46",
+              "icon": {
+                "type": "BOX",
+                "text": "G10",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 25
+          },
+          "BKK_EN": {
+            "id": "BKK_EN",
+            "shortName": "EN",
+            "description": "EuroNight",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "EN",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "EN",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 43
+          },
+          "volan_749": {
+            "id": "volan_749",
+            "shortName": "749",
+            "description": "Martonvásár, vasútállomás | Székesfehérvár, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "749",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "749",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 676
+          },
+          "BKK_0580": {
+            "id": "BKK_0580",
+            "shortName": "58",
+            "description": "Móricz Zs. körtér M | Balatoni út / Háros utca",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "58",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "58",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 172
+          },
+          "volan_748": {
+            "id": "volan_748",
+            "shortName": "748",
+            "description": "Vereb, Szabadság tér | Székesfehérvár, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "748",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "748",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 675
+          },
+          "BKK_3170": {
+            "id": "BKK_3170",
+            "shortName": "17",
+            "description": "Savoya Park | Bécsi út / Vörösvári út",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "17",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "17",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 104
+          },
+          "BKK_S12": {
+            "id": "BKK_S12",
+            "shortName": "S12",
+            "description": "Oroszlány | Budapest-Déli",
+            "type": "RAIL",
+            "color": "00AFF0",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "S12",
+            "bikesAllowed": false,
+            "style": {
+              "color": "00AFF0",
+              "icon": {
+                "type": "BOX",
+                "text": "S12",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 10
+          },
+          "BKK_S10": {
+            "id": "BKK_S10",
+            "shortName": "S10",
+            "description": "Győr | Budapest-Déli",
+            "type": "RAIL",
+            "color": "00AFF0",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "S10",
+            "bikesAllowed": false,
+            "style": {
+              "color": "00AFF0",
+              "icon": {
+                "type": "BOX",
+                "text": "S10",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 9
+          },
+          "BKK_0211": {
+            "id": "BKK_0211",
+            "shortName": "21A",
+            "description": "Széll Kálmán tér M | Svábhegy",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "21A",
+            "bikesAllowed": true,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "21A",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 109
+          },
+          "BKK_0210": {
+            "id": "BKK_0210",
+            "shortName": "21",
+            "description": "Széll Kálmán tér M | Normafa",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "21",
+            "bikesAllowed": true,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "21",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 108
+          },
+          "BKK_2510": {
+            "id": "BKK_2510",
+            "shortName": "251",
+            "description": "Savoya Park | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "251",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "251",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 373
+          },
+          "BKK_2511": {
+            "id": "BKK_2511",
+            "shortName": "251A",
+            "description": "Városház tér | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "251A",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "251A",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 374
+          },
+          "BKK_2515": {
+            "id": "BKK_2515",
+            "shortName": "251E",
+            "description": "Városház tér | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "251E",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "251E",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 375
+          },
+          "BKK_Eg": {
+            "id": "BKK_Eg",
+            "shortName": "Eg",
+            "description": "Salzburg Hbf | Budapest-Keleti",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "Eg",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "Eg",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 44
+          },
+          "volan_775": {
+            "id": "volan_775",
+            "shortName": "775",
+            "description": "Gyermely, Semmelweis utca | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "775",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "775",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 690
+          },
+          "volan_774": {
+            "id": "volan_774",
+            "shortName": "774",
+            "description": "Perbál, autóbusz-forduló | Budapest, Kelenföld vá. (Őrmező)",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "774",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "774",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 689
+          },
+          "volan_779": {
+            "id": "volan_779",
+            "shortName": "779",
+            "description": "Nyergesújfalu, gimnázium | Budapest, Kelenföld vá. (Őrmező)",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "779",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "779",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 692
+          },
+          "BKK_9600": {
+            "id": "BKK_9600",
+            "shortName": "960",
+            "description": "B.megyer, Újmegyeri tér | Móricz Zs. körtér M",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "960",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "960",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 855
+          },
+          "BKK_5400": {
+            "id": "BKK_5400",
+            "shortName": "M4",
+            "description": "Kelenföld vasútállomás | Keleti pályaudvar",
+            "type": "SUBWAY",
+            "color": "4CA22F",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "CIRCLE",
+            "iconDisplayText": "4",
+            "bikesAllowed": false,
+            "style": {
+              "color": "4CA22F",
+              "stop": {
+                "type": "PRIORITY",
+                "image": "route-icon-M4"
+              },
+              "icon": {
+                "type": "CIRCLE",
+                "text": "4",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "subway"
+              },
+              "groupId": 3
+            },
+            "sortOrder": 3
+          },
+          "volan_777": {
+            "id": "volan_777",
+            "shortName": "777",
+            "description": "Nagysáp, autóbusz-forduló | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "777",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "777",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 691
+          },
+          "BKK_Ex": {
+            "id": "BKK_Ex",
+            "shortName": "Ex",
+            "description": "Fonyód | Zánka-Erzsébettábor",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "Ex",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "Ex",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 45
+          },
+          "BKK_3610": {
+            "id": "BKK_3610",
+            "shortName": "61",
+            "description": "Móricz Zs. körtér M | Hűvösvölgy",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "61",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "61",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 180
+          },
+          "volan_770": {
+            "id": "volan_770",
+            "shortName": "770",
+            "description": "Kisbér, autóbusz-állomás | Budapest, Déli pályaudvar",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "770",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "770",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 687
+          },
+          "BKK_3590": {
+            "id": "BKK_3590",
+            "shortName": "59",
+            "description": "Márton Áron tér | Szent János Kórház",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "59",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "59",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 174
+          },
+          "BKK_G30": {
+            "id": "BKK_G30",
+            "shortName": "G30",
+            "description": "Székesfehérvár | Budapest-Déli",
+            "type": "RAIL",
+            "color": "AACD46",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "G30",
+            "bikesAllowed": false,
+            "style": {
+              "color": "AACD46",
+              "icon": {
+                "type": "BOX",
+                "text": "G30",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 26
+          },
+          "BKK_3591": {
+            "id": "BKK_3591",
+            "shortName": "59A",
+            "description": "Márton Áron tér | Széll Kálmán tér M",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "59A",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "59A",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 175
+          },
+          "volan_764": {
+            "id": "volan_764",
+            "shortName": "764",
+            "description": "Biatorbágy, Tópark | Budapest, Kelenföld vá. (Őrmező)",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "764",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "764",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 685
+          },
+          "BKK_3592": {
+            "id": "BKK_3592",
+            "shortName": "59B",
+            "description": "Hűvösvölgy / Márton Áron tér",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "59B",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "59B",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 176
+          },
+          "volan_762": {
+            "id": "volan_762",
+            "shortName": "762",
+            "description": "Sóskút, Iskola | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "762",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "762",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 683
+          },
+          "volan_767": {
+            "id": "volan_767",
+            "shortName": "767",
+            "description": "Etyek, Botpuszta | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "767",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "767",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 686
+          },
+          "BKK_0880": {
+            "id": "BKK_0880",
+            "shortName": "88",
+            "description": "Budatétény vá. (Campona) | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "88",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "88",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 220
+          },
+          "BKK_0085": {
+            "id": "BKK_0085",
+            "shortName": "8E",
+            "description": "Újpalota, Nyírpalota út | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "8E",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "8E",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 87
+          },
+          "BKK_3190": {
+            "id": "BKK_3190",
+            "shortName": "19",
+            "description": "Kelenföld vasútállomás M | Bécsi út / Vörösvári út",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "19",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "19",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 106
+          },
+          "BKK_S30": {
+            "id": "BKK_S30",
+            "shortName": "S30",
+            "description": "Siófok | Budapest-Déli",
+            "type": "RAIL",
+            "color": "00AFF0",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "S30",
+            "bikesAllowed": false,
+            "style": {
+              "color": "00AFF0",
+              "icon": {
+                "type": "BOX",
+                "text": "S30",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 13
+          },
+          "BKK_S35": {
+            "id": "BKK_S35",
+            "shortName": "S35",
+            "description": "Nagykanizsa | Budapest-Déli",
+            "type": "RAIL",
+            "color": "00AFF0",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "S35",
+            "bikesAllowed": false,
+            "style": {
+              "color": "00AFF0",
+              "icon": {
+                "type": "BOX",
+                "text": "S35",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 14
+          },
+          "BKK_0871": {
+            "id": "BKK_0871",
+            "shortName": "87A",
+            "description": "Kamaraerdő | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "87A",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "87A",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 219
+          },
+          "BKK_S36": {
+            "id": "BKK_S36",
+            "shortName": "S36",
+            "description": "Tárnok | Kőbánya-Kispest",
+            "type": "RAIL",
+            "color": "00AFF0",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "S36",
+            "bikesAllowed": false,
+            "style": {
+              "color": "00AFF0",
+              "icon": {
+                "type": "BOX",
+                "text": "S36",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 15
+          },
+          "BKK_0870": {
+            "id": "BKK_0870",
+            "shortName": "87",
+            "description": "Mechanikai Művek | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "87",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "87",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 218
+          },
+          "BKK_1720": {
+            "id": "BKK_1720",
+            "shortName": "172",
+            "description": "Törökbálint, Nyár utca | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "172",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "172",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 313
+          },
+          "volan_760": {
+            "id": "volan_760",
+            "shortName": "760",
+            "description": "Etyek, Botpuszta | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "760",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "760",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 682
+          },
+          "BKK_G40": {
+            "id": "BKK_G40",
+            "shortName": "G40",
+            "description": "Dombóvár | Budapest-Déli",
+            "type": "RAIL",
+            "color": "AACD46",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "G40",
+            "bikesAllowed": false,
+            "style": {
+              "color": "AACD46",
+              "icon": {
+                "type": "BOX",
+                "text": "G40",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 27
+          },
+          "volan_710": {
+            "id": "volan_710",
+            "shortName": "710",
+            "description": "Százhalombatta, autóbusz-forduló | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "710",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "710",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 653
+          },
+          "volan_798": {
+            "id": "volan_798",
+            "shortName": "798",
+            "description": "Perbál, Központ | Budapest, Kelenföld vá. (Őrmező)",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "798",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "798",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 705
+          },
+          "BKK_G44": {
+            "id": "BKK_G44",
+            "shortName": "G44",
+            "description": "Székesfehérvár | Budapest-Déli",
+            "type": "RAIL",
+            "color": "AACD46",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "G44",
+            "bikesAllowed": false,
+            "style": {
+              "color": "AACD46",
+              "icon": {
+                "type": "BOX",
+                "text": "G44",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 29
+          },
+          "BKK_9900": {
+            "id": "BKK_9900",
+            "shortName": "990",
+            "description": "Rákoskert | Normafa",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "990",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "990",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 867
+          },
+          "volan_712": {
+            "id": "volan_712",
+            "shortName": "712",
+            "description": "Százhalombatta, autóbusz-forduló | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "712",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "712",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 654
+          },
+          "BKK_G43": {
+            "id": "BKK_G43",
+            "shortName": "G43",
+            "description": "Székesfehérvár | Kőbánya-Kispest",
+            "type": "RAIL",
+            "color": "AACD46",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "G43",
+            "bikesAllowed": false,
+            "style": {
+              "color": "AACD46",
+              "icon": {
+                "type": "BOX",
+                "text": "G43",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 28
+          },
+          "volan_799": {
+            "id": "volan_799",
+            "shortName": "799",
+            "description": "Piliscsaba, vasútállomás | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "799",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "799",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 706
+          },
+          "volan_718": {
+            "id": "volan_718",
+            "shortName": "718",
+            "description": "Vereb, Szabadság tér | Kápolnásnyék, vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "718",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "718",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 658
+          },
+          "volan_717": {
+            "id": "volan_717",
+            "shortName": "717",
+            "description": "Kápolnásnyék, vasútállomás | Székesfehérvár, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "717",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "717",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 657
+          },
+          "volan_716": {
+            "id": "volan_716",
+            "shortName": "716",
+            "description": "Zichyújfalu, posta | Velence, vasútállomás (Szabolcsi út)",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "716",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "716",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 656
+          },
+          "BKK_S40": {
+            "id": "BKK_S40",
+            "shortName": "S40",
+            "description": "Százhalombatta | Budapest-Déli",
+            "type": "RAIL",
+            "color": "00AFF0",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "S40",
+            "bikesAllowed": false,
+            "style": {
+              "color": "00AFF0",
+              "icon": {
+                "type": "BOX",
+                "text": "S40",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 16
+          },
+          "BKK_Gy": {
+            "id": "BKK_Gy",
+            "shortName": "Gy",
+            "description": "Gyorsvonat",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "Gy",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "Gy",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 46
+          },
+          "BKK_S42": {
+            "id": "BKK_S42",
+            "shortName": "S42",
+            "description": "Dunaújváros | Budapest-Déli",
+            "type": "RAIL",
+            "color": "00AFF0",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "S42",
+            "bikesAllowed": false,
+            "style": {
+              "color": "00AFF0",
+              "icon": {
+                "type": "BOX",
+                "text": "S42",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 17
+          },
+          "BKK_0402": {
+            "id": "BKK_0402",
+            "shortName": "40B",
+            "description": "Budaörsi lakótelep | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "40B",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "40B",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 142
+          },
+          "BKK_9180": {
+            "id": "BKK_9180",
+            "shortName": "918",
+            "description": "Óbudai autóbuszgarázs | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "918",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "918",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 837
+          },
+          "BKK_0400": {
+            "id": "BKK_0400",
+            "shortName": "40",
+            "description": "Budaörsi lakótelep | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "40",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "40",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 141
+          },
+          "BKK_0881": {
+            "id": "BKK_0881",
+            "shortName": "88A",
+            "description": "Törökbálint, Márta utca | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "88A",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "88A",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 221
+          },
+          "BKK_IC": {
+            "id": "BKK_IC",
+            "shortName": "IC",
+            "description": "InterCity",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "IC",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "IC",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 47
+          },
+          "BKK_1730": {
+            "id": "BKK_1730",
+            "shortName": "173",
+            "description": "Törökbálint vasútállomás | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "173",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "173",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 314
+          },
+          "BKK_0405": {
+            "id": "BKK_0405",
+            "shortName": "40E",
+            "description": "Budaörsi lakótelep | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "40E",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "40E",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 143
+          },
+          "BKK_3010": {
+            "id": "BKK_3010",
+            "shortName": "1",
+            "description": "Puskás Ferenc Stadion M | Bécsi út / Vörösvári út",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "1",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "1",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 59
+          },
+          "volan_703": {
+            "id": "volan_703",
+            "shortName": "703",
+            "description": "Gyúró, Templom tér | Martonvásár, vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "703",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "703",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 648
+          },
+          "BKK_3012": {
+            "id": "BKK_3012",
+            "shortName": "1",
+            "description": "Népliget M | Kelenföld vasútállomás M",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "1",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "1",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 60
+          },
+          "volan_702": {
+            "id": "volan_702",
+            "shortName": "702",
+            "description": "Bicske, Tesco | Baracska, vasúti megállóhely",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "702",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "702",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 647
+          },
+          "BKK_3410": {
+            "id": "BKK_3410",
+            "shortName": "41",
+            "description": "Kamaraerdei Ifj. Park | Bécsi út / Vörösvári út",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "41",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "41",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 144
+          },
+          "BKK_1870": {
+            "id": "BKK_1870",
+            "shortName": "187",
+            "description": "Kamaraerdő | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "187",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "187",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 326
+          },
+          "volan_707": {
+            "id": "volan_707",
+            "shortName": "707",
+            "description": "Agárd, gyógyfürdő | Székesfehérvár, autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "707",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "707",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 651
+          },
+          "BKK_IR": {
+            "id": "BKK_IR",
+            "shortName": "IR",
+            "description": "InterRegió",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "IR",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "IR",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 48
+          },
+          "volan_704": {
+            "id": "volan_704",
+            "shortName": "704",
+            "description": "Martonvásár, vasútállomás | Százhalombatta, DE-Zrt. 2-es számú kapu",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "704",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "704",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 649
+          },
+          "BKK_3490": {
+            "id": "BKK_3490",
+            "shortName": "49",
+            "description": "Kelenföld vasútállomás M | Deák Ferenc tér M",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "49",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "49",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 156
+          },
+          "BKK_Z30": {
+            "id": "BKK_Z30",
+            "shortName": "Z30",
+            "description": "Székesfehérvár | Budapest-Déli",
+            "type": "RAIL",
+            "color": "FFCD28",
+            "textColor": "3C3C3C",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "Z30",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFCD28",
+              "icon": {
+                "type": "BOX",
+                "text": "Z30",
+                "textColor": "3C3C3C"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 35
+          },
+          "BKK_9070": {
+            "id": "BKK_9070",
+            "shortName": "907",
+            "description": "Örs vezér tere M H | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "907",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "907",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 828
+          },
+          "BKK_0530": {
+            "id": "BKK_0530",
+            "shortName": "53",
+            "description": "Mindszenty J. bíboros tér | Újbuda-központ M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "53",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "53",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 165
+          },
+          "BKK_1500": {
+            "id": "BKK_1500",
+            "shortName": "150",
+            "description": "Budatétény vá. (Campona) | Újbuda-központ M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "150",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "150",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 289
+          },
+          "BKK_rjx": {
+            "id": "BKK_rjx",
+            "shortName": "rjx",
+            "description": "Wien Hbf | Budapest-Keleti",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "rjx",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "rjx",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 54
+          },
+          "BKK_1502": {
+            "id": "BKK_1502",
+            "shortName": "150B",
+            "description": "Budatétény vá. (Campona) | Újbuda-központ M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "150B",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "150B",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 290
+          },
+          "volan_731": {
+            "id": "volan_731",
+            "shortName": "731",
+            "description": "Érd, autóbusz-állomás | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "731",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "731",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 664
+          },
+          "BKK_1085": {
+            "id": "BKK_1085",
+            "shortName": "108E",
+            "description": "Újpalota, Nyírpalota út | Gazdagréti tér",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "108E",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "108E",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 244
+          },
+          "volan_736": {
+            "id": "volan_736",
+            "shortName": "736",
+            "description": "Érd, autóbusz-állomás | Érd, Bem tér",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "736",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "736",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 668
+          },
+          "BKK_5200": {
+            "id": "BKK_5200",
+            "shortName": "M2",
+            "description": "Örs vezér tere | Déli pályaudvar",
+            "type": "SUBWAY",
+            "color": "E41F18",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "CIRCLE",
+            "iconDisplayText": "2",
+            "bikesAllowed": false,
+            "style": {
+              "color": "E41F18",
+              "stop": {
+                "type": "PRIORITY",
+                "image": "route-icon-M2"
+              },
+              "icon": {
+                "type": "CIRCLE",
+                "text": "2",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "subway"
+              },
+              "groupId": 3
+            },
+            "sortOrder": 1
+          },
+          "volan_735": {
+            "id": "volan_735",
+            "shortName": "735",
+            "description": "Érd, autóbusz-állomás | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "735",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "735",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 667
+          },
+          "BKK_2210": {
+            "id": "BKK_2210",
+            "shortName": "221",
+            "description": "Széll Kálmán tér M | Csillebérc, KFKI",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "221",
+            "bikesAllowed": true,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "221",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 354
+          },
+          "volan_734": {
+            "id": "volan_734",
+            "shortName": "734",
+            "description": "Érd, autóbusz-állomás | Érd, Bem tér",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "734",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "734",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 666
+          },
+          "BKK_1880": {
+            "id": "BKK_1880",
+            "shortName": "188",
+            "description": "Budakeszi, Honfoglalás s. | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "188",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "188",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 327
+          },
+          "BKK_N3180": {
+            "id": "BKK_N3180",
+            "shortName": "N18",
+            "description": "Szent János Kórház / Csóka utca",
+            "type": "TRAM",
+            "color": "FF9900",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "N18",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FF9900",
+              "icon": {
+                "type": "BOX",
+                "text": "N18",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 2
+            },
+            "sortOrder": 817
+          },
+          "BKK_0390": {
+            "id": "BKK_0390",
+            "shortName": "39",
+            "description": "Kissvábhegy | Batthyány tér M H",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "39",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "39",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 140
+          },
+          "BKK_S": {
+            "id": "BKK_S",
+            "shortName": "S",
+            "description": "Sebesvonat",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "S",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "S",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 51
+          },
+          "BKK_Z42": {
+            "id": "BKK_Z42",
+            "shortName": "Z42",
+            "description": "Dunaújváros | Budapest-Déli",
+            "type": "RAIL",
+            "color": "FFCD28",
+            "textColor": "3C3C3C",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "Z42",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFCD28",
+              "icon": {
+                "type": "BOX",
+                "text": "Z42",
+                "textColor": "3C3C3C"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 36
+          },
+          "volan_691": {
+            "id": "volan_691",
+            "shortName": "691",
+            "description": "Szigethalom, autóbusz-állomás | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "691",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "691",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 638
+          },
+          "BKK_2720": {
+            "id": "BKK_2720",
+            "shortName": "272",
+            "description": "Törökbálint, Márta utca | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "272",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "272",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 387
+          },
+          "BKK_VESz": {
+            "id": "BKK_VESz",
+            "shortName": "VESz",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "VESz",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "VESz",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 53
+          },
+          "BKK_BEG": {
+            "id": "BKK_BEG",
+            "shortName": "BEG",
+            "description": "gyorsított vonat",
+            "type": "RAIL",
+            "color": "2E5EA8",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_START",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "BEG",
+            "bikesAllowed": false,
+            "style": {
+              "color": "2E5EA8",
+              "icon": {
+                "type": "BOX",
+                "text": "BEG",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "rail"
+              },
+              "groupId": 4
+            },
+            "sortOrder": 40
+          },
+          "volan_720": {
+            "id": "volan_720",
+            "shortName": "720",
+            "description": "Érd, autóbusz-állomás | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "720",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "720",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 659
+          },
+          "volan_725": {
+            "id": "volan_725",
+            "shortName": "725",
+            "description": "Budapest, Kelenföld vasútállomás | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "725",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "725",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 662
+          },
+          "volan_724": {
+            "id": "volan_724",
+            "shortName": "724",
+            "description": "Pusztazámor, autóbusz-forduló | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "724",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "724",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 661
+          },
+          "volan_722": {
+            "id": "volan_722",
+            "shortName": "722",
+            "description": "Pusztazámor, autóbusz-forduló | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "722",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "722",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 660
+          },
+          "volan_689": {
+            "id": "volan_689",
+            "shortName": "689",
+            "description": "Szigethalom, autóbusz-állomás | Budapest, Kelenföld vasútállomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "689",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "689",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 636
+          },
+          "BKK_1012": {
+            "id": "BKK_1012",
+            "shortName": "101B",
+            "description": "Baross Gábor-telep | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "101B",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "101B",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 236
+          },
+          "volan_727": {
+            "id": "volan_727",
+            "shortName": "727",
+            "description": "Budapest, Kelenföld vasútállomás | Diósd, Búzavirág utca",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "727",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "727",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 663
+          },
+          "BKK_9010": {
+            "id": "BKK_9010",
+            "shortName": "901",
+            "description": "Bécsi út / Vörösvári út | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "901",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "901",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 827
+          },
+          "BKK_1400": {
+            "id": "BKK_1400",
+            "shortName": "140",
+            "description": "Törökbálint, bevásárlókp. | Széll Kálmán tér M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "140",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "140",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 278
+          },
+          "BKK_1401": {
+            "id": "BKK_1401",
+            "shortName": "140A",
+            "description": "Budaörsi lakótelep | Széll Kálmán tér M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "140A",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "140A",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 279
+          },
+          "BKK_1885": {
+            "id": "BKK_1885",
+            "shortName": "188E",
+            "description": "Budakeszi, Honfoglalás s. | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "188E",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "188E",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 328
+          }
+        },
+        "stops": {
+          "BKK_005503160": {
+            "id": "BKK_005503160",
+            "vertex": "BKK:BKK_005503160",
+            "lat": 47.365686,
+            "lon": 18.873783,
+            "name": "Tárnok",
+            "localityName": "2461",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503160",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S36",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz",
+              "volan_741",
+              "volan_742"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503210_0": {
+            "id": "BKK_005503210_0",
+            "vertex": "BKK:BKK_005503210",
+            "lat": 47.226905,
+            "lon": 18.663845,
+            "name": "Velence",
+            "localityName": "2481",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503210",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_Ex",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_CS005503194": {
+            "id": "BKK_CS005503194",
+            "vertex": "BKK:BKK_CS005503194",
+            "lat": 47.262283,
+            "lon": 18.712703,
+            "name": "Pettend",
+            "localityName": "2475",
+            "code": "CS005503194",
+            "direction": "",
+            "description": "g|m_Ho{eqBPDLLHTBXCXITMLQDOEOMIUAY@YHUNMNE",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503194_0": {
+            "id": "BKK_005503194_0",
+            "vertex": "BKK:BKK_005503194",
+            "lat": 47.262283,
+            "lon": 18.712703,
+            "name": "Pettend",
+            "localityName": "2475",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503194",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_005503244": {
+            "id": "BKK_005503244",
+            "vertex": "BKK:BKK_005503244",
+            "lat": 47.197622,
+            "lon": 18.604777,
+            "name": "Agárd",
+            "localityName": "2484",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503244",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_CS005503210": {
+            "id": "BKK_CS005503210",
+            "vertex": "BKK:BKK_CS005503210",
+            "lat": 47.226905,
+            "lon": 18.663845,
+            "name": "Velence",
+            "localityName": "2481",
+            "code": "CS005503210",
+            "direction": "",
+            "description": "kvf_H_~{pB@ZGXKRQHQ?OKuIkKIQEU?WBUJSfDuEJIl@]PCPDNPFV|B~R",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28",
+                "F9AB13"
+              ]
+            }
+          },
+          "BKK_005503103_0": {
+            "id": "BKK_005503103_0",
+            "vertex": "BKK:BKK_005503103",
+            "lat": 47.180832,
+            "lon": 18.563931,
+            "name": "Dinnyés",
+            "localityName": "2485",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503103",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_CS005503178": {
+            "id": "BKK_CS005503178",
+            "vertex": "BKK:BKK_CS005503178",
+            "lat": 47.320569,
+            "lon": 18.781334,
+            "name": "Martonvásár",
+            "localityName": "2462",
+            "code": "CS005503178",
+            "direction": "",
+            "description": "ehy_HkhsqBNJJPDT?XEVKPMJO@yDYMEKI_@g@?AW[ISEW@YFWLONGN@pF|A",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28",
+                "F9AB13"
+              ]
+            }
+          },
+          "BKK_005503186": {
+            "id": "BKK_005503186",
+            "vertex": "BKK:BKK_005503186",
+            "lat": 47.29813,
+            "lon": 18.755171,
+            "name": "Baracska",
+            "localityName": "2471",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503186",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz",
+              "volan_702",
+              "volan_749"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503178_0": {
+            "id": "BKK_005503178_0",
+            "vertex": "BKK:BKK_005503178",
+            "lat": 47.320569,
+            "lon": 18.781334,
+            "name": "Martonvásár",
+            "localityName": "2462",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503178",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_CS005503202": {
+            "id": "BKK_CS005503202",
+            "vertex": "BKK:BKK_CS005503202",
+            "lat": 47.245779,
+            "lon": 18.692643,
+            "name": "Kápolnásnyék",
+            "localityName": "2475",
+            "code": "CS005503202",
+            "direction": "",
+            "description": "msj_Hc~aqBPDLLHTBXCXITMLQDs@?QEMMIUCYBYHULMPEr@?",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28",
+                "F9AB13"
+              ]
+            }
+          },
+          "BKK_CS005503103": {
+            "id": "BKK_CS005503103",
+            "vertex": "BKK:BKK_CS005503103",
+            "lat": 47.180832,
+            "lon": 18.563931,
+            "name": "Dinnyés",
+            "localityName": "2485",
+            "code": "CS005503103",
+            "direction": "",
+            "description": "e_~~GsyhpBPBLNHRBXCXITMNQBOCOOGUCYBYFSNONC",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503228": {
+            "id": "BKK_005503228",
+            "vertex": "BKK:BKK_005503228",
+            "lat": 47.218581,
+            "lon": 18.648109,
+            "name": "Velencefürdő",
+            "localityName": "2481",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503228",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_CS005503269": {
+            "id": "BKK_CS005503269",
+            "vertex": "BKK:BKK_CS005503269",
+            "lat": 47.183082,
+            "lon": 18.423996,
+            "name": "Székesfehérvár",
+            "localityName": "8000",
+            "code": "CS005503269",
+            "direction": "",
+            "description": "gm~~GaomoBPDLLHTBXCXITMLQDOEOMGUCYBYFUNMNE",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005501024_0": {
+            "id": "BKK_005501024_0",
+            "vertex": "BKK:BKK_005501024",
+            "lat": 47.464321,
+            "lon": 19.020634,
+            "name": "Budapest-Kelenföld",
+            "localityName": "1115",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005501024",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S10",
+              "BKK_S12",
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_S36",
+              "BKK_S40",
+              "BKK_S42",
+              "BKK_G10",
+              "BKK_G30",
+              "BKK_G40",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_Z42",
+              "BKK_BEG",
+              "BKK_EC",
+              "BKK_EN",
+              "BKK_Eg",
+              "BKK_Ex",
+              "BKK_Gy",
+              "BKK_IC",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz",
+              "BKK_rjx"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_005501024": {
+            "id": "BKK_005501024",
+            "vertex": "BKK:BKK_005501024",
+            "lat": 47.464321,
+            "lon": 19.020634,
+            "name": "Budapest-Kelenföld",
+            "localityName": "1115",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS007967",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_5400",
+              "BKK_S10",
+              "BKK_S12",
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_S36",
+              "BKK_S40",
+              "BKK_S42",
+              "BKK_G10",
+              "BKK_G30",
+              "BKK_G40",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_Z42",
+              "BKK_BEG",
+              "BKK_EC",
+              "BKK_EN",
+              "BKK_Eg",
+              "BKK_Ex",
+              "BKK_Gy",
+              "BKK_IC",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz",
+              "BKK_rjx",
+              "BKK_3010",
+              "BKK_3012",
+              "BKK_0085",
+              "BKK_3190",
+              "BKK_0400",
+              "BKK_0402",
+              "BKK_0405",
+              "BKK_3490",
+              "BKK_0530",
+              "BKK_0580",
+              "BKK_0870",
+              "BKK_0871",
+              "BKK_0880",
+              "BKK_0881",
+              "BKK_1012",
+              "BKK_1015",
+              "BKK_1085",
+              "BKK_1410",
+              "BKK_1500",
+              "BKK_1502",
+              "BKK_1530",
+              "BKK_1540",
+              "BKK_1720",
+              "BKK_1730",
+              "BKK_1870",
+              "BKK_1880",
+              "BKK_1885",
+              "BKK_2500",
+              "BKK_2502",
+              "BKK_2510",
+              "BKK_2511",
+              "BKK_2515",
+              "BKK_2720",
+              "volan_689",
+              "volan_691",
+              "volan_710",
+              "volan_712",
+              "volan_720",
+              "volan_722",
+              "volan_724",
+              "volan_725",
+              "volan_727",
+              "volan_731",
+              "volan_734",
+              "volan_735",
+              "volan_736",
+              "volan_760",
+              "volan_762",
+              "volan_764",
+              "volan_767",
+              "volan_770",
+              "volan_774",
+              "volan_775",
+              "volan_777",
+              "volan_779",
+              "volan_798",
+              "volan_799",
+              "BKK_9010",
+              "BKK_9070",
+              "BKK_9180"
+            ],
+            "stopColorType": "M4-TRAM-BUS",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_CS005503228": {
+            "id": "BKK_CS005503228",
+            "vertex": "BKK:BKK_CS005503228",
+            "lat": 47.218581,
+            "lon": 18.648109,
+            "name": "Velencefürdő",
+            "localityName": "2481",
+            "code": "CS005503228",
+            "direction": "",
+            "description": "cke_HwgypBPBLNHTBXCXIRMNQBOCOOGSCYBYFUNONC",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503269": {
+            "id": "BKK_005503269",
+            "vertex": "BKK:BKK_005503269",
+            "lat": 47.183082,
+            "lon": 18.423996,
+            "name": "Székesfehérvár",
+            "localityName": "8000",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503269",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_Ex",
+              "BKK_IC",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503152_0": {
+            "id": "BKK_005503152_0",
+            "vertex": "BKK:BKK_005503152",
+            "lat": 47.379753,
+            "lon": 18.923686,
+            "name": "Érd alsó",
+            "localityName": "2030",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503152",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_S36",
+              "BKK_G30",
+              "BKK_G40",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_005503202": {
+            "id": "BKK_005503202",
+            "vertex": "BKK:BKK_005503202",
+            "lat": 47.245779,
+            "lon": 18.692643,
+            "name": "Kápolnásnyék",
+            "localityName": "2475",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503202",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "volan_717",
+              "volan_718",
+              "volan_740",
+              "volan_748",
+              "volan_749",
+              "volan_758"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503103": {
+            "id": "BKK_005503103",
+            "vertex": "BKK:BKK_005503103",
+            "lat": 47.180832,
+            "lon": 18.563931,
+            "name": "Dinnyés",
+            "localityName": "2485",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503103",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503202_0": {
+            "id": "BKK_005503202_0",
+            "vertex": "BKK:BKK_005503202",
+            "lat": 47.245779,
+            "lon": 18.692643,
+            "name": "Kápolnásnyék",
+            "localityName": "2475",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503202",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_005503228_0": {
+            "id": "BKK_005503228_0",
+            "vertex": "BKK:BKK_005503228",
+            "lat": 47.218581,
+            "lon": 18.648109,
+            "name": "Velencefürdő",
+            "localityName": "2481",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503228",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_CSF00025": {
+            "id": "BKK_CSF00025",
+            "vertex": "BKK:BKK_CSF00025",
+            "lat": 47.500244,
+            "lon": 19.024484,
+            "name": "Déli pályaudvar",
+            "localityName": "1012",
+            "code": "CSF00025",
+            "direction": "",
+            "description": "oe|`HyzbsBPLJVB\\C|CCXKRq@dAMLQBkACE?iDi@ICs@_@MOIWA]DaBDYHSt@_ADEnAeAPIP@pErA",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FF9900",
+                "FFD800",
+                "E41F18",
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28",
+                "000000",
+                "009EE3",
+                "F9AB13"
+              ],
+              "type": "PRIORITY",
+              "image": "stop-icon-M2"
+            }
+          },
+          "BKK_005503269_0": {
+            "id": "BKK_005503269_0",
+            "vertex": "BKK:BKK_005503269",
+            "lat": 47.183082,
+            "lon": 18.423996,
+            "name": "Székesfehérvár",
+            "localityName": "8000",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503269",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_Ex",
+              "BKK_IC",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_005503244_0": {
+            "id": "BKK_005503244_0",
+            "vertex": "BKK:BKK_005503244",
+            "lat": 47.197622,
+            "lon": 18.604777,
+            "name": "Agárd",
+            "localityName": "2484",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503244",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_CS005503160": {
+            "id": "BKK_CS005503160",
+            "vertex": "BKK:BKK_CS005503160",
+            "lat": 47.365686,
+            "lon": 18.873783,
+            "name": "Tárnok",
+            "localityName": "2461",
+            "code": "CS005503160",
+            "direction": "",
+            "description": "iab`HcierBDV?XGVMPOFQAOKKSsAaFEY@YFWJOPGN@NJJRrA`F",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28",
+                "F9AB13"
+              ]
+            }
+          },
+          "BKK_005503210": {
+            "id": "BKK_005503210",
+            "vertex": "BKK:BKK_005503210",
+            "lat": 47.226905,
+            "lon": 18.663845,
+            "name": "Velence",
+            "localityName": "2481",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503210",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_Ex",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz",
+              "volan_707",
+              "volan_716",
+              "volan_747",
+              "volan_749",
+              "volan_750",
+              "volan_758",
+              "volan_759"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_CS007967": {
+            "id": "BKK_CS007967",
+            "vertex": "BKK:BKK_CS007967",
+            "lat": 47.464525,
+            "lon": 19.020429,
+            "name": "Kelenföld vasútállomás",
+            "localityName": "1115",
+            "code": "CS007967",
+            "direction": "",
+            "description": "sfu`HmlbsBDT@Vg@fXE\\Ql@KRcChCMHO@OGMOGScEqXAYBYHSpBuCBChCwCJKNALB`Bv@RTb@fA",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "4CA22F",
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28",
+                "000000",
+                "009EE3",
+                "F9AB13"
+              ],
+              "type": "PRIORITY",
+              "image": "stop-icon-M4"
+            }
+          },
+          "BKK_005503178": {
+            "id": "BKK_005503178",
+            "vertex": "BKK:BKK_005503178",
+            "lat": 47.320569,
+            "lon": 18.781334,
+            "name": "Martonvásár",
+            "localityName": "2462",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503178",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz",
+              "volan_702",
+              "volan_703",
+              "volan_704",
+              "volan_749",
+              "volan_759"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_CS005503186": {
+            "id": "BKK_CS005503186",
+            "vertex": "BKK:BKK_CS005503186",
+            "lat": 47.29813,
+            "lon": 18.755171,
+            "name": "Baracska",
+            "localityName": "2471",
+            "code": "CS005503186",
+            "direction": "",
+            "description": "o{t_HaanqBOJQAOIKQGW?YFWJS`AaANIP?NHJRFV?XGVKPaA`A",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28",
+                "F9AB13"
+              ]
+            }
+          },
+          "BKK_005503186_0": {
+            "id": "BKK_005503186_0",
+            "vertex": "BKK:BKK_005503186",
+            "lat": 47.29813,
+            "lon": 18.755171,
+            "name": "Baracska",
+            "localityName": "2471",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503186",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_005503194": {
+            "id": "BKK_005503194",
+            "vertex": "BKK:BKK_005503194",
+            "lat": 47.262283,
+            "lon": 18.712703,
+            "name": "Pettend",
+            "localityName": "2475",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503194",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_CS005503244": {
+            "id": "BKK_CS005503244",
+            "vertex": "BKK:BKK_CS005503244",
+            "lat": 47.197622,
+            "lon": 18.604777,
+            "name": "Agárd",
+            "localityName": "2484",
+            "code": "CS005503244",
+            "direction": "",
+            "description": "cha_H}xppBPDLLHTBXCXITMLQDOEOMGUCYBYFUNMNE",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503152": {
+            "id": "BKK_005503152",
+            "vertex": "BKK:BKK_005503152",
+            "lat": 47.379753,
+            "lon": 18.923686,
+            "name": "Érd alsó / Érd felső",
+            "localityName": "2030",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005505819",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_S36",
+              "BKK_S40",
+              "BKK_S42",
+              "BKK_G30",
+              "BKK_G40",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_Z42",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005501016_0": {
+            "id": "BKK_005501016_0",
+            "vertex": "BKK:BKK_005501016",
+            "lat": 47.499339,
+            "lon": 19.024933,
+            "name": "Budapest-Déli",
+            "localityName": "1012",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005501016",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S10",
+              "BKK_S12",
+              "BKK_S30",
+              "BKK_S40",
+              "BKK_S42",
+              "BKK_G30",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_Z42",
+              "BKK_Ex",
+              "BKK_IC",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_CS005503236": {
+            "id": "BKK_CS005503236",
+            "vertex": "BKK:BKK_CS005503236",
+            "lat": 47.206008,
+            "lon": 18.624929,
+            "name": "Gárdony",
+            "localityName": "2483",
+            "code": "CS005503236",
+            "direction": "",
+            "description": "iyb_HiutpBFV?XEXKPQJQAaASQMMW}AwHCYB[HWNMRANFLR`DjI",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28",
+                "F9AB13"
+              ]
+            }
+          },
+          "BKK_005503236": {
+            "id": "BKK_005503236",
+            "vertex": "BKK:BKK_005503236",
+            "lat": 47.206008,
+            "lon": 18.624929,
+            "name": "Gárdony",
+            "localityName": "2483",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CS005503236",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz",
+              "volan_707",
+              "volan_716",
+              "volan_747",
+              "volan_750",
+              "volan_758",
+              "volan_759"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005501016": {
+            "id": "BKK_005501016",
+            "vertex": "BKK:BKK_005501016",
+            "lat": 47.499339,
+            "lon": 19.024933,
+            "name": "Budapest-Déli",
+            "localityName": "1012",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "station",
+            "parentStationId": "BKK_CSF00025",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_5200",
+              "BKK_S10",
+              "BKK_S12",
+              "BKK_S30",
+              "BKK_S40",
+              "BKK_S42",
+              "BKK_G30",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_Z42",
+              "BKK_Ex",
+              "BKK_IC",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_0210",
+              "BKK_0211",
+              "BKK_0390",
+              "BKK_3410",
+              "BKK_3560",
+              "BKK_3561",
+              "BKK_3590",
+              "BKK_3591",
+              "BKK_3592",
+              "BKK_3610",
+              "BKK_1020",
+              "BKK_1390",
+              "BKK_1400",
+              "BKK_1401",
+              "BKK_2210",
+              "volan_770",
+              "BKK_N3180",
+              "BKK_9600",
+              "BKK_9900"
+            ],
+            "stopColorType": "M2-TRAM-BUS",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          },
+          "BKK_005503160_0": {
+            "id": "BKK_005503160_0",
+            "vertex": "BKK:BKK_005503160",
+            "lat": 47.365686,
+            "lon": 18.873783,
+            "name": "Tárnok",
+            "localityName": "2461",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503160",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S36",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_Sz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_005503236_0": {
+            "id": "BKK_005503236_0",
+            "vertex": "BKK:BKK_005503236",
+            "lat": 47.206008,
+            "lon": 18.624929,
+            "name": "Gárdony",
+            "localityName": "2483",
+            "direction": "",
+            "locationType": 0,
+            "parentStationId": "BKK_005503236",
+            "type": "RAIL",
+            "wheelchairBoarding": false,
+            "routeIds": [
+              "BKK_S30",
+              "BKK_S35",
+              "BKK_G30",
+              "BKK_G43",
+              "BKK_G44",
+              "BKK_Z30",
+              "BKK_IR",
+              "BKK_S",
+              "BKK_Sz",
+              "BKK_VESz"
+            ],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "2E5EA8"
+              ]
+            }
+          },
+          "BKK_CS005505819": {
+            "id": "BKK_CS005505819",
+            "vertex": "BKK:BKK_CS005505819",
+            "lat": 47.380434,
+            "lon": 18.923254,
+            "name": "Érd alsó / Érd felső",
+            "localityName": "2030",
+            "code": "CS005505819",
+            "direction": "",
+            "description": "_{d`H}aorBPEPDLLHTBXCXITMLoGjDQDQCMOISCYBYHULOnGkD",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28"
+              ]
+            }
+          }
+        },
+        "trips": {},
+        "alerts": {}
+      },
+      "class": "entryWithReferences"
+    }
+  }

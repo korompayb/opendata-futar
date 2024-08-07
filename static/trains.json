@@ -1,0 +1,4050 @@
+{
+    "currentTime": 1722865556287,
+    "version": 2,
+    "status": "OK",
+    "code": 200,
+    "text": "OK",
+    "data": {
+      "limitExceeded": false,
+      "entry": {
+        "id": "BKK_3170",
+        "shortName": "17",
+        "description": "Savoya Park | Bécsi út / Vörösvári út",
+        "type": "TRAM",
+        "color": "FFD800",
+        "textColor": "000000",
+        "agencyId": "BKK_BKK",
+        "iconDisplayType": "BOX",
+        "iconDisplayText": "17",
+        "bikesAllowed": false,
+        "style": {
+          "color": "FFD800",
+          "icon": {
+            "type": "BOX",
+            "text": "17",
+            "textColor": "000000"
+          },
+          "vehicleIcon": {
+            "name": "tram",
+            "color": "FFD800",
+            "secondaryColor": "000000"
+          },
+          "groupId": 1
+        },
+        "sortOrder": 104,
+        "variants": [
+          {
+            "name": "17-es Bécsi út / Vörösvári út-tól Savoya Park-ig Nagyenyed utca betéréssel",
+            "stopIds": [
+              "BKK_F00568",
+              "BKK_F00590",
+              "BKK_F00595",
+              "BKK_F00685",
+              "BKK_F00599",
+              "BKK_F00136",
+              "BKK_F00244",
+              "BKK_F00242",
+              "BKK_F00240",
+              "BKK_069091",
+              "BKK_F00198",
+              "BKK_F00307",
+              "BKK_F02462",
+              "BKK_F00024",
+              "BKK_F00019",
+              "BKK_F00018",
+              "BKK_F02416",
+              "BKK_F02167",
+              "BKK_F02172",
+              "BKK_F02116",
+              "BKK_F02253",
+              "BKK_F02126",
+              "BKK_F02146",
+              "BKK_F02200",
+              "BKK_008593",
+              "BKK_F01997",
+              "BKK_F02238",
+              "BKK_F02004",
+              "BKK_F02010",
+              "BKK_F02240",
+              "BKK_F02013",
+              "BKK_F02016",
+              "BKK_F02020",
+              "BKK_F02025",
+              "BKK_F02031",
+              "BKK_008864"
+            ],
+            "mayRequireBooking": false,
+            "bookableStopIds": [],
+            "direction": "[multidirection]",
+            "headsign": "Savoya Park",
+            "polyline": {
+              "levels": "",
+              "points": "_yeaHercsB?CdA@P?F?H?`@@h@AX?PARAb@Cn@KVGtCe@nAU|@STEDAdBUvAU|Bc@@JAKHAB?f@IXGvAU~B_@jASn@M@?f@Od@Mn@SPGjA_@@LAMBABAHCPENG^Ml@Sv@Wf@OzAg@ZKRIJEBAb@Sl@]\\Sn@]j@]j@[h@[b@YrA}@|@k@@HAIDAFEHGPMFC`As@bCiB|AiA|@q@HGrAcAf@c@DCNQFIX_@n@y@h@s@T[`@k@@?DJEKDGVUZUBCNIPIrAc@`Bi@VItAc@^Ih@IpBKfC^nC^f@Hb@D?H?I@@@?L@H@H@r@LrBVrGv@F@xBVRBH@T@lA?B??B?CH?|GEhA?F?~@Aj@?L@H?J@P@j@Ff@HPBfARHB?@?APBNBv@LnAPlARz@N^BZ@tA@h@?P?J?VENCNELEFCLE`Ai@LG?F?GPGFADAHAHAL?F?H@H@NBLD~ElB|@\\LD@GAFB?XHRDB@LFHDvDvBXPNFFBh@TLDzChAJDTNJJNTHLJVJZf@jBn@|CJh@@DH^n@lCHGIF@B@FBDNn@`@dB^bBV~@Vx@JXFTXz@P^Zl@^d@\\d@bBlBb@d@NP@BtAbBDFB@@@AB@C@Bj@p@TZDDNPFHd@j@NTZ`@VZ\\b@LPt@~@\\`@?@JJHHNRHHHFLJNHZHXHb@FV@T?J?H?TANALCL?LCXAJAT@nALdAN^DPBP@V@R?PAr@EV?f@?J?P?H@J?d@?bB@l@?N?P@`A@@??D?EJ?X@v@F^@lA@dA@j@?`A@V?L?T@B?b@BlAH@??D?E~BPxEXh@BhABH??@?AD?N?pA?TCN?dEWh@EpFm@~ASHA~BYpAQPC~BWB?@JAKJAVCTCjLKR?H?d@AF?@?^?jAA???D?Ev@AR?RANAPCNCLCPGJELETONKPMPQTUNOPQLMZYXYPQZ[HIHMHIHOXk@Xi@BHCIBEDIFOFQFUPq@d@sBbAmEXsAHYFWHUPg@BE@CFSf@_B@CBBCCRo@hCcIDOFOb@uADBECBIjE_N^iA`@qADFEGFQFODQf@}ADMtAgEJ_@H_@Ji@hA{FVsADBEC@CBQBQDQDUTsA`@cCLu@Dc@Fe@Do@\\oFBU@SR}CBe@VmDH}AF@GA?A@CB_@F}@?I@M@KBG@G@CBGBE@C@ALOBCDAHCJAJ?jBN?B?C@?`@DB?\\D\\DTFTDHBrA\\bCl@PDJBf@L`@J?A?@F@\\JPDRHJBD@PDRF^HfAX`@JNBLBLBL@h@L~ElAPFB?hBb@bAXb@JRD|@VPDHB?@?ALBbDx@v@TbAVpD~@FB?B?CB?VHVF~@T~Bl@`Bb@pD~@fAXdAXfAXRHRHNDND~Bj@D@@EADHBF@D@FBJBF@PD\\Hp@P~@Tz@Rr@Pz@Tr@Rx@RhCp@H@VHXH?@?AD@JBVFNDB@|A`@jBd@xIzB?F?GJDZHVFzKrChBd@JDXFdAXdBd@AL@MF@DBLFJFPLDDHDHDHBJDHBdBZPBLBVD~ALxBR|AL`E^B?NBZBjAJD?AJ@KzD^jBPF?P@dK~@H@VBjAJD@AH@IxGl@jBPPBB??F?GVBL@PBnAL^BZBH@lADjADZ@X?NAPANCNCNERGPG\\Oz@_@@ANEJCPCLCnAOrBWRCJAFCJGJEDEHGDGHKFKFOFOH]DWBS@S?S?QAK?QAQAUC[Kw@AOAM?M?M?Q?O@OD_@ZgD@GD]@UFe@TeCHB",
+              "length": 689
+            },
+            "routeId": "BKK_3170",
+            "pattern": true,
+            "patternSequence": 1,
+            "patternRouteClass": "priority"
+          },
+          {
+            "name": "17-es Savoya Park-tól Bécsi út / Vörösvári út-ig Tas vezér utca betéréssel",
+            "stopIds": [
+              "BKK_008802",
+              "BKK_F02029",
+              "BKK_F02024",
+              "BKK_F02019",
+              "BKK_F02017",
+              "BKK_F02014",
+              "BKK_F02241",
+              "BKK_F02009",
+              "BKK_F02003",
+              "BKK_F02239",
+              "BKK_F01999",
+              "BKK_F02194",
+              "BKK_F02197",
+              "BKK_F02147",
+              "BKK_F02127",
+              "BKK_F02252",
+              "BKK_F02115",
+              "BKK_F02171",
+              "BKK_F02166",
+              "BKK_F02417",
+              "BKK_F00015",
+              "BKK_F00020",
+              "BKK_F00025",
+              "BKK_036678",
+              "BKK_F00308",
+              "BKK_F00199",
+              "BKK_069090",
+              "BKK_F00239",
+              "BKK_F00241",
+              "BKK_F00243",
+              "BKK_F00135",
+              "BKK_F00598",
+              "BKK_F00684",
+              "BKK_F00594",
+              "BKK_F00591",
+              "BKK_082200",
+              "BKK_F00568"
+            ],
+            "mayRequireBooking": false,
+            "bookableStopIds": [],
+            "direction": "[multidirection]",
+            "headsign": "Bécsi út / Vörösvári út",
+            "polyline": {
+              "levels": "",
+              "points": "_yo`H{efsBICMpAAJCPCHCJALAFYxCEb@CTE\\]nDC^ALAL?P?P?N@LBPHr@BZ@T@P@T?N?J?PARCRCTIXIRGNGJGHKJGDKHKBKDI@QBuBVkANQBK@MBOFKDKDeAd@YJMDMBOBK@SBQ?W?oAC{@Es@C_@EiBQSAi@GeAK?I?HE?YCUC{Iy@@IAHC?GAE?WCiKaAE?QAsBS{Fg@@KAJCAMAE?UCMAeE_@_BO}BS{AMWCKCSCaB[KCGCGCGCIEIGIGWOOIECGAGCw@S[IIC@IAHCAu@QIC[IEAoBg@iKoC?A?@A?MCYIYGqMiDsA]EA@EADGAQEUGk@OWIIAq@QyA_@w@Uu@Qy@Ue@MOCy@ScBc@IAa@KA?OGGAKEGCECICOGgBa@g@M?@?AMCSGm@O{DcAuGcB}Bm@s@QEA@CABGCUGWGcAWyBk@cAW{EoAWGwA_@@EADAAIAgBe@iBc@CAQEsA]}A_@m@QWEQEKCQAOCMCw@So@QYG[IOEGCECECIEGEECGEKEEAMEkAYA?AD@EEAGCICSGOEiB_@eASa@IMAKCe@G_@CEAaAIs@E?C?BC?SCM?C?I?GBA?CBEBOLABABCDCDCHAFAFALCNGbAC`@WzDKzA?@C?B?C\\S|CARCTM~BIbAEj@En@Gf@E^EVG\\a@dCWtA?????@CPCPENOx@Kl@uAfHK^K^sAdEEN_@jA????A@ENGNEPEJ[bAaFlOY~@Y|@?@AA@@GNENGNgCbIy@bCAA@@ENGPADCHQb@ITGVGXYrA{AnGOp@Sz@CLEJCFAC@B?@CDABe@z@Wd@KRMPMLGFURIHSRSTu@r@c@b@QNOLUNMHMFODOFOBOBMBO@O?U@yB@A?AE@DC@G?U?M?e@@M?C?{LHSB[B{BV?A?@E@K@SBqAP}BTKB_BRmFl@m@FkDR?E?DE@Q@O?W@oA?O?wAAk@CyE[aCQ{@E?I?HCAI?CAm@Aq@CWC_A?mC@a@A]Cw@Ec@Eq@EC??E?DE?C?OAE?_@Ao@?kAA]AO?I?Y?[?YBYB[BW@Q@Q?WASAQA_@GcAMmAMYAK?Q@SBO@UBU@K@QAW?c@EUEWGUIOIOIIIIISSMOGGKMKKe@k@DMELKMMQIIIMgAsACCo@_AEEEEOSIIW[e@i@CGoA{ADIEHCCGICEq@w@cBkB_@i@_@e@Yi@Ui@]iASm@c@cBOy@Sy@YoAS}@EKi@{BHEIDCMAEIWGUIa@S{@]}Ag@iBAGCICIACCCCGIQEIQUIGSQKEeDqAo@WEAOGYQyDwBGCKIGKGOCM?CCO?S?oCAGAGAECEAGCECCCCCCGEEAE?E?}@N?J?KA?C@G@G@QDSBG@A@qBVuAXm@XKFOHWJ[PAG@FMHOFUHODKBOB[DG@s@?c@AY?Y?QAO?_@Ey@MmASoAScBYYGYE?E?DEAOCGAo@Kk@GOAM?KAy@?gA?G?cA@w@CcFFeAA?E?DG?K?UAK?SA]EyAQIAOA_Gu@E?yASUCu@KIAEAA?MAaAO?G?FE?aHcAa@BoAFa@Bk@NwAd@IBaD`A_@LIFULGBQN_@ZMPg@p@AA@@a@h@W\\g@t@YZQTEDGD[ZyAfAOJ}@p@cAt@}CzBq@f@AG@FMJGDQJKFiAt@oAx@k@^c@Vm@Zk@\\m@\\a@Rm@^a@RC?IDUHWH_Bh@e@N_AZg@P]JQFODIBeAZ?E?DA@g@NYJq@Re@LC@m@LiEp@}ATYFg@HgAP?C?BA?wCh@gBVC@WD}@RoAR{Ch@AC@BC@K@q@Lu@LQ@Y?i@@a@AI?G?Q?eAA?B",
+              "length": 733
+            },
+            "routeId": "BKK_3170",
+            "pattern": true,
+            "patternSequence": 35,
+            "patternRouteClass": "priority"
+          }
+        ],
+        "alertIds": []
+      },
+      "references": {
+        "agencies": {
+          "BKK_BKK": {
+            "id": "BKK_BKK",
+            "name": "BKK",
+            "url": "http://www.bkk.hu",
+            "timezone": "Europe/Budapest",
+            "lang": "hu",
+            "phone": "+36 1 3 255 255"
+          },
+          "volan_volan": {
+            "id": "volan_volan",
+            "name": "Volánbusz Zrt.",
+            "url": "volanbusz.hu",
+            "timezone": "Europe/Budapest"
+          }
+        },
+        "routes": {
+          "BKK_3040": {
+            "id": "BKK_3040",
+            "shortName": "4",
+            "description": "Újbuda-központ M | Széll Kálmán tér M",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "4",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "4",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 73
+          },
+          "BKK_3480": {
+            "id": "BKK_3480",
+            "shortName": "48",
+            "description": "Deák Ferenc tér M / Savoya Park",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "48",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "48",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 155
+          },
+          "BKK_2370": {
+            "id": "BKK_2370",
+            "shortName": "237",
+            "description": "Jablonka út | Szentlélek tér H",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "237",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "237",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 366
+          },
+          "volan_830": {
+            "id": "volan_830",
+            "shortName": "830",
+            "description": "Pilisszántó, autóbusz-forduló | Budapest, Árpád híd autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "830",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "830",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 724
+          },
+          "BKK_3560": {
+            "id": "BKK_3560",
+            "shortName": "56",
+            "description": "Városház tér | Hűvösvölgy",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "56",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "56",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 169
+          },
+          "BKK_9900": {
+            "id": "BKK_9900",
+            "shortName": "990",
+            "description": "Rákoskert | Normafa",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "990",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "990",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 867
+          },
+          "BKK_3561": {
+            "id": "BKK_3561",
+            "shortName": "56A",
+            "description": "Móricz Zs. körtér M | Hűvösvölgy",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "56A",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "56A",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 170
+          },
+          "BKK_9600": {
+            "id": "BKK_9600",
+            "shortName": "960",
+            "description": "B.megyer, Újmegyeri tér | Móricz Zs. körtér M",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "960",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "960",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 855
+          },
+          "volan_832": {
+            "id": "volan_832",
+            "shortName": "832",
+            "description": "Piliscsaba, vasútállomás | Budapest, Árpád híd autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "832",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "832",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 726
+          },
+          "volan_815": {
+            "id": "volan_815",
+            "shortName": "815",
+            "description": "Süttő, kultúrotthon | Budapest, Árpád híd autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "815",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "815",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 716
+          },
+          "BKK_3060": {
+            "id": "BKK_3060",
+            "shortName": "6",
+            "description": "Móricz Zs. körtér M | Széll Kálmán tér M",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "6",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "6",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 80
+          },
+          "BKK_0390": {
+            "id": "BKK_0390",
+            "shortName": "39",
+            "description": "Kissvábhegy | Batthyány tér M H",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "39",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "39",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 140
+          },
+          "BKK_VP46": {
+            "id": "BKK_VP46",
+            "shortName": "4-6",
+            "description": "Széll Kálmán tér M / Nyugati pályaudvar M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "4-6",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "4-6",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 75
+          },
+          "BKK_VP06": {
+            "id": "BKK_VP06",
+            "shortName": "6",
+            "description": "Móricz Zsigmond körtér M / Széll Kálmán tér M",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "6",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "6",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 81
+          },
+          "BKK_3610": {
+            "id": "BKK_3610",
+            "shortName": "61",
+            "description": "Móricz Zs. körtér M | Hűvösvölgy",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "61",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "61",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 180
+          },
+          "BKK_2600": {
+            "id": "BKK_2600",
+            "shortName": "260",
+            "description": "Harsánylejtő | Óbudai rendelőintézet",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "260",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "260",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 379
+          },
+          "volan_820": {
+            "id": "volan_820",
+            "shortName": "820",
+            "description": "Pilisszántó, autóbusz-forduló | Budapest, Árpád híd autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "820",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "820",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 718
+          },
+          "BKK_3590": {
+            "id": "BKK_3590",
+            "shortName": "59",
+            "description": "Márton Áron tér | Szent János Kórház",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "59",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "59",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 174
+          },
+          "BKK_9731": {
+            "id": "BKK_9731",
+            "shortName": "973A",
+            "description": "Rákospalota, MÁV-telep | Városház tér",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "973A",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "973A",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 863
+          },
+          "BKK_3591": {
+            "id": "BKK_3591",
+            "shortName": "59A",
+            "description": "Márton Áron tér | Széll Kálmán tér M",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "59A",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "59A",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 175
+          },
+          "BKK_9730": {
+            "id": "BKK_9730",
+            "shortName": "973",
+            "description": "Újpalota, Szentmihályi út | Nagytétény, ipartelep",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "973",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "973",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 862
+          },
+          "BKK_3470": {
+            "id": "BKK_3470",
+            "shortName": "47",
+            "description": "Városház tér | Deák Ferenc tér M",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "47",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "47",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 153
+          },
+          "BKK_1370": {
+            "id": "BKK_1370",
+            "shortName": "137",
+            "description": "Erdőalja út-Máramaros út | Szentlélek tér H",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "137",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "137",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 275
+          },
+          "volan_840": {
+            "id": "volan_840",
+            "shortName": "840",
+            "description": "Pilisborosjenő, autóbusz-forduló | Budapest, Árpád híd autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "840",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "840",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 729
+          },
+          "BKK_3592": {
+            "id": "BKK_3592",
+            "shortName": "59B",
+            "description": "Hűvösvölgy / Márton Áron tér",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "59B",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "59B",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 176
+          },
+          "BKK_3010": {
+            "id": "BKK_3010",
+            "shortName": "1",
+            "description": "Puskás Ferenc Stadion M | Bécsi út / Vörösvári út",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "1",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "1",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 59
+          },
+          "BKK_3011": {
+            "id": "BKK_3011",
+            "shortName": "1A",
+            "description": "Népliget M / Bécsi út / Vörösvári út",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "1A",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "1A",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 63
+          },
+          "volan_800": {
+            "id": "volan_800",
+            "shortName": "800",
+            "description": "Esztergom, vasútállomás | Budapest, Árpád híd autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "800",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "800",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 707
+          },
+          "BKK_3410": {
+            "id": "BKK_3410",
+            "shortName": "41",
+            "description": "Kamaraerdei Ifj. Park | Bécsi út / Vörösvári út",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "41",
+            "bikesAllowed": true,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "41",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 144
+          },
+          "volan_821": {
+            "id": "volan_821",
+            "shortName": "821",
+            "description": "Pilisszántó, autóbusz-forduló | Budapest, Árpád híd autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "821",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "821",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 719
+          },
+          "BKK_9370": {
+            "id": "BKK_9370",
+            "shortName": "937",
+            "description": "Erdőalja út-Máramaros út | Bécsi út / Vörösvári út",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "937",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "937",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 846
+          },
+          "volan_848": {
+            "id": "volan_848",
+            "shortName": "848",
+            "description": "Pilisborosjenő, autóbusz-forduló | Budapest, Árpád híd autóbusz-állomás",
+            "type": "BUS",
+            "color": "F9AB13",
+            "textColor": "000000",
+            "agencyId": "volan_volan",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "848",
+            "bikesAllowed": false,
+            "style": {
+              "color": "F9AB13",
+              "icon": {
+                "type": "BOX",
+                "text": "848",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "F9AB13",
+                "secondaryColor": "000000"
+              },
+              "groupId": 100
+            },
+            "sortOrder": 733
+          },
+          "BKK_3190": {
+            "id": "BKK_3190",
+            "shortName": "19",
+            "description": "Kelenföld vasútállomás M | Bécsi út / Vörösvári út",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "19",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "19",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 106
+          },
+          "BKK_3170": {
+            "id": "BKK_3170",
+            "shortName": "17",
+            "description": "Savoya Park | Bécsi út / Vörösvári út",
+            "type": "TRAM",
+            "color": "FFD800",
+            "textColor": "000000",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "17",
+            "bikesAllowed": false,
+            "style": {
+              "color": "FFD800",
+              "icon": {
+                "type": "BOX",
+                "text": "17",
+                "textColor": "000000"
+              },
+              "vehicleIcon": {
+                "name": "tram",
+                "color": "FFD800",
+                "secondaryColor": "000000"
+              },
+              "groupId": 1
+            },
+            "sortOrder": 104
+          },
+          "BKK_2180": {
+            "id": "BKK_2180",
+            "shortName": "218",
+            "description": "Solymár, Auchan áruház | Szentlélek tér H",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "218",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "218",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 351
+          },
+          "BKK_9010": {
+            "id": "BKK_9010",
+            "shortName": "901",
+            "description": "Bécsi út / Vörösvári út | Kelenföld vasútállomás M",
+            "type": "BUS",
+            "color": "000000",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "901",
+            "bikesAllowed": false,
+            "style": {
+              "color": "000000",
+              "icon": {
+                "type": "BOX",
+                "text": "901",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "night-bus",
+                "color": "1E1E1E",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 10
+            },
+            "sortOrder": 827
+          },
+          "BKK_1600": {
+            "id": "BKK_1600",
+            "shortName": "160",
+            "description": "Békásmegyer H | Óbudai rendelőintézet",
+            "type": "BUS",
+            "color": "009EE3",
+            "textColor": "FFFFFF",
+            "agencyId": "BKK_BKK",
+            "iconDisplayType": "BOX",
+            "iconDisplayText": "160",
+            "bikesAllowed": false,
+            "style": {
+              "color": "009EE3",
+              "icon": {
+                "type": "BOX",
+                "text": "160",
+                "textColor": "FFFFFF"
+              },
+              "vehicleIcon": {
+                "name": "bus",
+                "color": "009EE3",
+                "secondaryColor": "FFFFFF"
+              },
+              "groupId": 7
+            },
+            "sortOrder": 301
+          }
+        },
+        "stops": {
+          "BKK_F00244": {
+            "id": "BKK_F00244",
+            "vertex": "BKK:BKK_F00244",
+            "lat": 47.523954,
+            "lon": 19.036824,
+            "name": "Zsigmond tér",
+            "localityName": "1023",
+            "code": "F00244",
+            "direction": "180",
+            "description": "1783",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00245",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00243": {
+            "id": "BKK_F00243",
+            "vertex": "BKK:BKK_F00243",
+            "lat": 47.524251,
+            "lon": 19.03693,
+            "name": "Zsigmond tér",
+            "localityName": "1023",
+            "code": "F00243",
+            "direction": "0",
+            "description": "1781",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00245",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00242": {
+            "id": "BKK_F00242",
+            "vertex": "BKK:BKK_F00242",
+            "lat": 47.520338,
+            "lon": 19.036612,
+            "name": "Komjádi Béla utca",
+            "localityName": "1023",
+            "code": "F00242",
+            "direction": "-170",
+            "description": "1779",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00241",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00241": {
+            "id": "BKK_F00241",
+            "vertex": "BKK:BKK_F00241",
+            "lat": 47.520635,
+            "lon": 19.036798,
+            "name": "Komjádi Béla utca",
+            "localityName": "1023",
+            "code": "F00241",
+            "direction": "9",
+            "description": "1777",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00241",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00240": {
+            "id": "BKK_F00240",
+            "vertex": "BKK:BKK_F00240",
+            "lat": 47.51684,
+            "lon": 19.036573,
+            "name": "Szent Lukács Gyógyfürdő",
+            "localityName": "1023",
+            "code": "F00240",
+            "direction": "159",
+            "description": "1775",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00239",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_069091": {
+            "id": "BKK_069091",
+            "vertex": "BKK:BKK_069091",
+            "lat": 47.514717,
+            "lon": 19.035936,
+            "name": "Margit híd, budai hídfő H",
+            "localityName": "1023",
+            "code": "069091",
+            "direction": "-166",
+            "description": "625657",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00234",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_069090": {
+            "id": "BKK_069090",
+            "vertex": "BKK:BKK_069090",
+            "lat": 47.515122,
+            "lon": 19.037158,
+            "name": "Margit híd, budai hídfő H",
+            "localityName": "1023",
+            "code": "069090",
+            "direction": "-5",
+            "description": "625655",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00234",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF02165": {
+            "id": "BKK_CSF02165",
+            "vertex": "BKK:BKK_CSF02165",
+            "lat": 47.487226,
+            "lon": 19.024235,
+            "name": "BAH-csomópont",
+            "localityName": "1118",
+            "code": "CSF02165",
+            "direction": "",
+            "description": "ivy`HyzbsBNNHT@ZKdJCXKTOJk@TS@QIgGcGKQGY@YDYtBqFLQRGPBjExB",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF00020": {
+            "id": "BKK_CSF00020",
+            "vertex": "BKK:BKK_CSF00020",
+            "lat": 47.498134,
+            "lon": 19.023942,
+            "name": "Nagyenyed utca",
+            "localityName": "1123",
+            "code": "CSF00020",
+            "direction": "",
+            "description": "e|{`HqqbsBAVGTKNMHO?OG}@s@MSGY?]FWNSb@[NGPBLHJRVx@D\\@T",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02020": {
+            "id": "BKK_F02020",
+            "vertex": "BKK:BKK_F02020",
+            "lat": 47.44762,
+            "lon": 19.037371,
+            "name": "Albertfalva utca",
+            "localityName": "1116",
+            "code": "F02020",
+            "direction": "-174",
+            "description": "5323",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02019",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02024": {
+            "id": "BKK_F02024",
+            "vertex": "BKK:BKK_F02024",
+            "lat": 47.443789,
+            "lon": 19.036908,
+            "name": "Fonyód utca",
+            "localityName": "1116",
+            "code": "F02024",
+            "direction": "6",
+            "description": "5331",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02024",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02146": {
+            "id": "BKK_F02146",
+            "vertex": "BKK:BKK_F02146",
+            "lat": 47.478854,
+            "lon": 19.040156,
+            "name": "Tas vezér utca",
+            "localityName": "1113",
+            "code": "F02146",
+            "direction": "112",
+            "description": "5575",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02146",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02025": {
+            "id": "BKK_F02025",
+            "vertex": "BKK:BKK_F02025",
+            "lat": 47.443483,
+            "lon": 19.036709,
+            "name": "Fonyód utca",
+            "localityName": "1116",
+            "code": "F02025",
+            "direction": "-174",
+            "description": "5333",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02024",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02147": {
+            "id": "BKK_F02147",
+            "vertex": "BKK:BKK_F02147",
+            "lat": 47.478818,
+            "lon": 19.040577,
+            "name": "Tas vezér utca",
+            "localityName": "1114",
+            "code": "F02147",
+            "direction": "-69",
+            "description": "5577",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02146",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02029": {
+            "id": "BKK_F02029",
+            "vertex": "BKK:BKK_F02029",
+            "lat": 47.441783,
+            "lon": 19.036577,
+            "name": "Budafok kocsiszín",
+            "localityName": "1116",
+            "code": "F02029",
+            "direction": "6",
+            "description": "5341",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02029",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF00025": {
+            "id": "BKK_CSF00025",
+            "vertex": "BKK:BKK_CSF00025",
+            "lat": 47.500244,
+            "lon": 19.024484,
+            "name": "Déli pályaudvar",
+            "localityName": "1012",
+            "code": "CSF00025",
+            "direction": "",
+            "description": "oe|`HyzbsBPLJVB\\C|CCXKRq@dAMLQBkACE?iDi@ICs@_@MOIWA]DaBDYHSt@_ADEnAeAPIP@pErA",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FF9900",
+                "FFD800",
+                "E41F18",
+                "00AFF0",
+                "2E5EA8",
+                "AACD46",
+                "FFCD28",
+                "000000",
+                "009EE3",
+                "F9AB13"
+              ],
+              "type": "PRIORITY",
+              "image": "stop-icon-M2"
+            }
+          },
+          "BKK_F02416": {
+            "id": "BKK_F02416",
+            "vertex": "BKK:BKK_F02416",
+            "lat": 47.490206,
+            "lon": 19.024437,
+            "name": "Csörsz utca",
+            "localityName": "1123",
+            "code": "F02416",
+            "direction": "173",
+            "description": "6099",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02417",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00599": {
+            "id": "BKK_F00599",
+            "vertex": "BKK:BKK_F00599",
+            "lat": 47.532318,
+            "lon": 19.036703,
+            "name": "Katinyi mártírok parkja",
+            "localityName": "1034",
+            "code": "F00599",
+            "direction": "142",
+            "description": "2491",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00598",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02417": {
+            "id": "BKK_F02417",
+            "vertex": "BKK:BKK_F02417",
+            "lat": 47.490782,
+            "lon": 19.024447,
+            "name": "Csörsz utca",
+            "localityName": "1123",
+            "code": "F02417",
+            "direction": "-7",
+            "description": "6101",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02417",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF01999": {
+            "id": "BKK_CSF01999",
+            "vertex": "BKK:BKK_CSF01999",
+            "lat": 47.474124,
+            "lon": 19.046836,
+            "name": "Újbuda-központ",
+            "localityName": "1117",
+            "code": "CSF01999",
+            "direction": "",
+            "description": "e_w`Hk}fsBDV@XGXKPOHuHzAQ?QMKUoAiFCU@UBUxCgJJSNIPANHJPjFvN",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "4CA22F",
+                "000000",
+                "009EE3",
+                "F9AB13"
+              ],
+              "type": "PRIORITY",
+              "image": "stop-icon-M4"
+            }
+          },
+          "BKK_F00598": {
+            "id": "BKK_F00598",
+            "vertex": "BKK:BKK_F00598",
+            "lat": 47.532615,
+            "lon": 19.036517,
+            "name": "Katinyi mártírok parkja",
+            "localityName": "1034",
+            "code": "F00598",
+            "direction": "-38",
+            "description": "2489",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00598",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00595": {
+            "id": "BKK_F00595",
+            "vertex": "BKK:BKK_F00595",
+            "lat": 47.540313,
+            "lon": 19.03091,
+            "name": "Szent Margit Kórház",
+            "localityName": "1032",
+            "code": "F00595",
+            "direction": "164",
+            "description": "2483",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00594",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00199": {
+            "id": "BKK_F00199",
+            "vertex": "BKK:BKK_F00199",
+            "lat": 47.510939,
+            "lon": 19.032114,
+            "name": "Mechwart liget",
+            "localityName": "1027",
+            "code": "F00199",
+            "direction": "63",
+            "description": "1693",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00195",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3040",
+              "BKK_3060",
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00198": {
+            "id": "BKK_F00198",
+            "vertex": "BKK:BKK_F00198",
+            "lat": 47.510778,
+            "lon": 19.031462,
+            "name": "Mechwart liget",
+            "localityName": "1024",
+            "code": "F00198",
+            "direction": "-115",
+            "description": "1691",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00195",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3040",
+              "BKK_3060",
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00594": {
+            "id": "BKK_F00594",
+            "vertex": "BKK:BKK_F00594",
+            "lat": 47.540637,
+            "lon": 19.030923,
+            "name": "Szent Margit Kórház",
+            "localityName": "1032",
+            "code": "F00594",
+            "direction": "-16",
+            "description": "2481",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00594",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_008802": {
+            "id": "BKK_008802",
+            "vertex": "BKK:BKK_008802",
+            "lat": 47.435847,
+            "lon": 19.042385,
+            "name": "Savoya Park",
+            "localityName": "1116",
+            "code": "008802",
+            "direction": "",
+            "description": "509269",
+            "locationType": 0,
+            "parentStationId": "BKK_CS009578",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3480"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00591": {
+            "id": "BKK_F00591",
+            "vertex": "BKK:BKK_F00591",
+            "lat": 47.54383,
+            "lon": 19.029979,
+            "name": "Váradi utca",
+            "localityName": "1032",
+            "code": "F00591",
+            "direction": "-10",
+            "description": "2475",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00591",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00590": {
+            "id": "BKK_F00590",
+            "vertex": "BKK:BKK_F00590",
+            "lat": 47.543524,
+            "lon": 19.029926,
+            "name": "Váradi utca",
+            "localityName": "1032",
+            "code": "F00590",
+            "direction": "170",
+            "description": "2473",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00591",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_MERGED_F00308": {
+            "id": "BKK_MERGED_F00308",
+            "vertex": "BKK:BKK_MERGED_F00308",
+            "lat": 47.508483,
+            "lon": 19.027323,
+            "name": "Széna tér",
+            "localityName": "1024",
+            "code": "F00308",
+            "direction": "38",
+            "locationType": 1,
+            "locationSubType": "stop",
+            "parentStationId": "BKK_CS088212",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3040",
+              "BKK_VP46",
+              "BKK_3060",
+              "BKK_VP06",
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_0390",
+              "BKK_3410",
+              "BKK_9600",
+              "BKK_9900"
+            ],
+            "stopColorType": "TRAM-BUS",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_MERGED_F00307": {
+            "id": "BKK_MERGED_F00307",
+            "vertex": "BKK:BKK_MERGED_F00307",
+            "lat": 47.508114,
+            "lon": 19.026739,
+            "name": "Széna tér",
+            "localityName": "1024",
+            "code": "F00307",
+            "direction": "-140",
+            "locationType": 1,
+            "locationSubType": "stop",
+            "parentStationId": "BKK_CS088212",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3040",
+              "BKK_VP46",
+              "BKK_3060",
+              "BKK_VP06",
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_0390",
+              "BKK_3410",
+              "BKK_9600",
+              "BKK_9900"
+            ],
+            "stopColorType": "TRAM-BUS",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CS073099": {
+            "id": "BKK_CS073099",
+            "vertex": "BKK:BKK_CS073099",
+            "lat": 47.507101,
+            "lon": 19.024384,
+            "name": "Széll Kálmán tér",
+            "localityName": "1024",
+            "code": "CS073099",
+            "direction": "",
+            "description": "_n}`HsnbsBBZCZKTOLwCfAM@wECQEOOGUA[@wA?AXeI?CZoFDUHQj@w@LMPAPFLNlD`IDL|A`I",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FF9900",
+                "FFD800",
+                "E41F18",
+                "000000",
+                "009EE3",
+                "023E84",
+                "F9AB13"
+              ],
+              "type": "PRIORITY",
+              "image": "stop-icon-M2"
+            }
+          },
+          "BKK_F02010": {
+            "id": "BKK_F02010",
+            "vertex": "BKK:BKK_F02010",
+            "lat": 47.462639,
+            "lon": 19.042274,
+            "name": "Etele út / Fehérvári út",
+            "localityName": "1119",
+            "code": "F02010",
+            "direction": "-167",
+            "description": "5303",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02009",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02252": {
+            "id": "BKK_F02252",
+            "vertex": "BKK:BKK_F02252",
+            "lat": 47.481864,
+            "lon": 19.032616,
+            "name": "Pető Intézet (Villányi út)",
+            "localityName": "1118",
+            "code": "F02252",
+            "direction": "-58",
+            "description": "5777",
+            "locationType": 0,
+            "parentStationId": "BKK_CS049187",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF02172": {
+            "id": "BKK_CSF02172",
+            "vertex": "BKK:BKK_CSF02172",
+            "lat": 47.484045,
+            "lon": 19.02687,
+            "name": "Budaörsi út / Villányi út",
+            "localityName": "1118",
+            "code": "CSF02172",
+            "direction": "",
+            "description": "_ey`HghcsBP@NLJTBXCZIT}@~AMNQDQEMOIWAY@uABUFSLMLEz@K",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_F02253": {
+            "id": "BKK_F02253",
+            "vertex": "BKK:BKK_F02253",
+            "lat": 47.481659,
+            "lon": 19.032915,
+            "name": "Pető Intézet (Villányi út)",
+            "localityName": "1113",
+            "code": "F02253",
+            "direction": "122",
+            "description": "5779",
+            "locationType": 0,
+            "parentStationId": "BKK_CS049187",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02013": {
+            "id": "BKK_F02013",
+            "vertex": "BKK:BKK_F02013",
+            "lat": 47.456129,
+            "lon": 19.039889,
+            "name": "Andor utca",
+            "localityName": "1119",
+            "code": "F02013",
+            "direction": "-166",
+            "description": "5309",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02012",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02014": {
+            "id": "BKK_F02014",
+            "vertex": "BKK:BKK_F02014",
+            "lat": 47.455715,
+            "lon": 19.039836,
+            "name": "Andor utca",
+            "localityName": "1116",
+            "code": "F02014",
+            "direction": "14",
+            "description": "5311",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02012",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02016": {
+            "id": "BKK_F02016",
+            "vertex": "BKK:BKK_F02016",
+            "lat": 47.452172,
+            "lon": 19.038418,
+            "name": "Albertfalva kitérő",
+            "localityName": "1116",
+            "code": "F02016",
+            "direction": "-159",
+            "description": "5315",
+            "locationType": 0,
+            "parentStationId": "BKK_CS008684",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02017": {
+            "id": "BKK_F02017",
+            "vertex": "BKK:BKK_F02017",
+            "lat": 47.452666,
+            "lon": 19.038776,
+            "name": "Albertfalva kitérő",
+            "localityName": "1116",
+            "code": "F02017",
+            "direction": "15",
+            "description": "5317",
+            "locationType": 0,
+            "parentStationId": "BKK_CS008684",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CS088212": {
+            "id": "BKK_CS088212",
+            "vertex": "BKK:BKK_CS088212",
+            "lat": 47.508307,
+            "lon": 19.027762,
+            "name": "Széna tér",
+            "localityName": "1027",
+            "code": "CS088212",
+            "direction": "",
+            "description": "gy}`HumcsB@RARcA`HGRKNMFO?MGkC{BKQGU?YBWXeA@EjCwHJQNIN?NHLNDTf@vE",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_F00239": {
+            "id": "BKK_F00239",
+            "vertex": "BKK:BKK_F00239",
+            "lat": 47.517118,
+            "lon": 19.036533,
+            "name": "Szent Lukács Gyógyfürdő",
+            "localityName": "1023",
+            "code": "F00239",
+            "direction": "-21",
+            "description": "1773",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00239",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02019": {
+            "id": "BKK_F02019",
+            "vertex": "BKK:BKK_F02019",
+            "lat": 47.447926,
+            "lon": 19.037583,
+            "name": "Albertfalva utca",
+            "localityName": "1116",
+            "code": "F02019",
+            "direction": "6",
+            "description": "5321",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02019",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F01997": {
+            "id": "BKK_F01997",
+            "vertex": "BKK:BKK_F01997",
+            "lat": 47.474467,
+            "lon": 19.046478,
+            "name": "Újbuda-központ M",
+            "localityName": "1117",
+            "code": "F01997",
+            "direction": "-166",
+            "description": "5275",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF01999",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF00239": {
+            "id": "BKK_CSF00239",
+            "vertex": "BKK:BKK_CSF00239",
+            "lat": 47.516979,
+            "lon": 19.036553,
+            "name": "Szent Lukács Gyógyfürdő",
+            "localityName": "1023",
+            "code": "CSF00239",
+            "direction": "",
+            "description": "yt_aHe_esBQCOKISEY@YFULQPEt@GP@NJHRDXAXGVMNOFw@F",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00025": {
+            "id": "BKK_F00025",
+            "vertex": "BKK:BKK_F00025",
+            "lat": 47.501106,
+            "lon": 19.024177,
+            "name": "Déli pályaudvar M",
+            "localityName": "1122",
+            "code": "F00025",
+            "direction": "4",
+            "description": "1351",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00025",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3590",
+              "BKK_3591",
+              "BKK_3592",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00024": {
+            "id": "BKK_F00024",
+            "vertex": "BKK:BKK_F00024",
+            "lat": 47.500848,
+            "lon": 19.024021,
+            "name": "Déli pályaudvar M",
+            "localityName": "1122",
+            "code": "F00024",
+            "direction": "-178",
+            "description": "1349",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00025",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3590",
+              "BKK_3591",
+              "BKK_3592",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF02417": {
+            "id": "BKK_CSF02417",
+            "vertex": "BKK:BKK_CSF02417",
+            "lat": 47.490354,
+            "lon": 19.024142,
+            "name": "Csörsz utca",
+            "localityName": "1123",
+            "code": "CSF02417",
+            "direction": "",
+            "description": "ejz`HsqbsB@ZEZKT[^MHO@OEMK}B{DIWA[BYJU^g@LKLCNBpAh@NLJXf@xC",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_F00020": {
+            "id": "BKK_F00020",
+            "vertex": "BKK:BKK_F00020",
+            "lat": 47.498335,
+            "lon": 19.024011,
+            "name": "Nagyenyed utca",
+            "localityName": "1123",
+            "code": "F00020",
+            "direction": "5",
+            "description": "1341",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00020",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CS008684": {
+            "id": "BKK_CS008684",
+            "vertex": "BKK:BKK_CS008684",
+            "lat": 47.452576,
+            "lon": 19.03866,
+            "name": "Albertfalva kitérő",
+            "localityName": "1116",
+            "code": "CS008684",
+            "direction": "",
+            "description": "i~r`H{nesBJPFT@XEXKPOJO@sBSOGMQGUAYDoADYJSNKPANHlBbB",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_F02166": {
+            "id": "BKK_F02166",
+            "vertex": "BKK:BKK_F02166",
+            "lat": 47.48719,
+            "lon": 19.024696,
+            "name": "BAH-csomópont",
+            "localityName": "1118",
+            "code": "F02166",
+            "direction": "-1",
+            "description": "5615",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02165",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02167": {
+            "id": "BKK_F02167",
+            "vertex": "BKK:BKK_F02167",
+            "lat": 47.486852,
+            "lon": 19.024596,
+            "name": "BAH-csomópont",
+            "localityName": "1118",
+            "code": "F02167",
+            "direction": "179",
+            "description": "5617",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02165",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02200": {
+            "id": "BKK_F02200",
+            "vertex": "BKK:BKK_F02200",
+            "lat": 47.477815,
+            "lon": 19.046253,
+            "name": "Móricz Zsigmond körtér M",
+            "localityName": "1114",
+            "code": "F02200",
+            "direction": "99",
+            "description": "5683",
+            "locationType": 0,
+            "parentStationId": "BKK_CS022814",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF02029": {
+            "id": "BKK_CSF02029",
+            "vertex": "BKK:BKK_CSF02029",
+            "lat": 47.441143,
+            "lon": 19.036455,
+            "name": "Budafok kocsiszín",
+            "localityName": "1116",
+            "code": "CSF02029",
+            "direction": "",
+            "description": "cup`HcbesBNJJTDXAZIVONQBiEGOCgAe@OOIUCYB[HUNMPCdEPD@nA\\",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF00241": {
+            "id": "BKK_CSF00241",
+            "vertex": "BKK:BKK_CSF00241",
+            "lat": 47.520487,
+            "lon": 19.036705,
+            "name": "Komjádi Béla utca",
+            "localityName": "1023",
+            "code": "CSF00241",
+            "direction": "",
+            "description": "ok`aH_aesBMOISCYBYHULOPCPDx@b@NLHT@XCXGTONOBQE{@c@",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00308": {
+            "id": "BKK_F00308",
+            "vertex": "BKK:BKK_F00308",
+            "lat": 47.508483,
+            "lon": 19.027323,
+            "name": "Széna tér",
+            "localityName": "1024",
+            "code": "F00308",
+            "direction": "38",
+            "description": "1911",
+            "locationType": 0,
+            "locationSubType": "merged",
+            "parentStationId": "BKK_MERGED_F00308",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3040",
+              "BKK_VP46",
+              "BKK_3060",
+              "BKK_VP06",
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410",
+              "BKK_9600"
+            ],
+            "stopColorType": "TRAM-BUS",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_F00307": {
+            "id": "BKK_F00307",
+            "vertex": "BKK:BKK_F00307",
+            "lat": 47.508114,
+            "lon": 19.026739,
+            "name": "Széna tér",
+            "localityName": "1024",
+            "code": "F00307",
+            "direction": "-140",
+            "description": "1909",
+            "locationType": 0,
+            "locationSubType": "merged",
+            "parentStationId": "BKK_MERGED_F00307",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3040",
+              "BKK_VP46",
+              "BKK_3060",
+              "BKK_VP06",
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410",
+              "BKK_9600"
+            ],
+            "stopColorType": "TRAM-BUS",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF02024": {
+            "id": "BKK_CSF02024",
+            "vertex": "BKK:BKK_CSF02024",
+            "lat": 47.443548,
+            "lon": 19.036862,
+            "name": "Fonyód utca",
+            "localityName": "1116",
+            "code": "CSF02024",
+            "direction": "",
+            "description": "_gq`HeeesBNLJTBXAZKVMLk@VOBQC{@g@MOISCYBYFSLOZQLEN@lA`@",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF02146": {
+            "id": "BKK_CSF02146",
+            "vertex": "BKK:BKK_CSF02146",
+            "lat": 47.478782,
+            "lon": 19.040597,
+            "name": "Tas vezér utca",
+            "localityName": "1114",
+            "code": "CSF02146",
+            "direction": "",
+            "description": "gdx`Hg~esBPDNNFV@ZCXq@dCKRMJOBQGKMIUAW?gCBWHULMPEn@?",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_F01999": {
+            "id": "BKK_F01999",
+            "vertex": "BKK:BKK_F01999",
+            "lat": 47.4748,
+            "lon": 19.046664,
+            "name": "Újbuda-központ M",
+            "localityName": "1117",
+            "code": "F01999",
+            "direction": "14",
+            "description": "5279",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF01999",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF00245": {
+            "id": "BKK_CSF00245",
+            "vertex": "BKK:BKK_CSF00245",
+            "lat": 47.524312,
+            "lon": 19.037281,
+            "name": "Zsigmond tér",
+            "localityName": "1023",
+            "code": "CSF00245",
+            "direction": "",
+            "description": "i~`aHscesB?ZEVKRQHQ?{@USOsCkEISCY@YHWLMPENBzDhBPPHZRvB",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_F00136": {
+            "id": "BKK_F00136",
+            "vertex": "BKK:BKK_F00136",
+            "lat": 47.527687,
+            "lon": 19.037474,
+            "name": "Kolosy tér",
+            "localityName": "1036",
+            "code": "F00136",
+            "direction": "-172",
+            "description": "1567",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00137",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00015": {
+            "id": "BKK_F00015",
+            "vertex": "BKK:BKK_F00015",
+            "lat": 47.494839,
+            "lon": 19.023732,
+            "name": "Királyhágó utca",
+            "localityName": "1123",
+            "code": "F00015",
+            "direction": "-5",
+            "description": "1331",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00017",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00135": {
+            "id": "BKK_F00135",
+            "vertex": "BKK:BKK_F00135",
+            "lat": 47.527983,
+            "lon": 19.03766,
+            "name": "Kolosy tér",
+            "localityName": "1036",
+            "code": "F00135",
+            "direction": "9",
+            "description": "1565",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00137",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_036678": {
+            "id": "BKK_036678",
+            "vertex": "BKK:BKK_036678",
+            "lat": 47.50671,
+            "lon": 19.02524,
+            "name": "Széll Kálmán tér M",
+            "localityName": "1024",
+            "code": "036678",
+            "direction": "35",
+            "description": "556613",
+            "locationType": 0,
+            "parentStationId": "BKK_CS073099",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410",
+              "BKK_3591"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02031": {
+            "id": "BKK_F02031",
+            "vertex": "BKK:BKK_F02031",
+            "lat": 47.441414,
+            "lon": 19.036378,
+            "name": "Budafok kocsiszín",
+            "localityName": "1116",
+            "code": "F02031",
+            "direction": "-172",
+            "description": "5345",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02029",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF00017": {
+            "id": "BKK_CSF00017",
+            "vertex": "BKK:BKK_CSF00017",
+            "lat": 47.495254,
+            "lon": 19.023473,
+            "name": "Királyhágó utca",
+            "localityName": "1123",
+            "code": "CSF00017",
+            "direction": "",
+            "description": "sg{`HutbsBP?NHLRDXAXEVyApDMRSFcCFYIgB{AKQGWA[FWJSNIrA[@?nFaA",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CS049186": {
+            "id": "BKK_CS049186",
+            "vertex": "BKK:BKK_CS049186",
+            "lat": 47.458982,
+            "lon": 19.040983,
+            "name": "Kalotaszeg utca",
+            "localityName": "1116",
+            "code": "CS049186",
+            "direction": "",
+            "description": "{gt`Hu_fsBRBLLJTBZCXITON[NI@sANQAOKISEY@[HUJULONE`BK",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF00137": {
+            "id": "BKK_CSF00137",
+            "vertex": "BKK:BKK_CSF00137",
+            "lat": 47.527742,
+            "lon": 19.037449,
+            "name": "Kolosy tér",
+            "localityName": "1036",
+            "code": "CSF00137",
+            "direction": "",
+            "description": "wqaaHwmesBLJJRDVAXGT}B`GCFc@r@ONSBQGMSSk@AEyCkLCW?[HUJOPGP@lI~C",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_F00019": {
+            "id": "BKK_F00019",
+            "vertex": "BKK:BKK_F00019",
+            "lat": 47.498029,
+            "lon": 19.023858,
+            "name": "Nagyenyed utca",
+            "localityName": "1123",
+            "code": "F00019",
+            "direction": "-175",
+            "description": "1339",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00020",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00018": {
+            "id": "BKK_F00018",
+            "vertex": "BKK:BKK_F00018",
+            "lat": 47.495669,
+            "lon": 19.023612,
+            "name": "Királyhágó utca",
+            "localityName": "1123",
+            "code": "F00018",
+            "direction": "-178",
+            "description": "1337",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00017",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CS049187": {
+            "id": "BKK_CS049187",
+            "vertex": "BKK:BKK_CS049187",
+            "lat": 47.481804,
+            "lon": 19.032689,
+            "name": "Pető Intézet (Villányi út)",
+            "localityName": "1113",
+            "code": "CS049187",
+            "direction": "",
+            "description": "_vx`HikdsB@XCV}@zDKTOJQ@QGMSEY?[R_C@EZ}BFWNOPERDLPHVJ`A",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00685": {
+            "id": "BKK_F00685",
+            "vertex": "BKK:BKK_F00685",
+            "lat": 47.536042,
+            "lon": 19.033342,
+            "name": "Selmeci utca",
+            "localityName": "1034",
+            "code": "F00685",
+            "direction": "155",
+            "description": "2663",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00686",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F00684": {
+            "id": "BKK_F00684",
+            "vertex": "BKK:BKK_F00684",
+            "lat": 47.535754,
+            "lon": 19.0337,
+            "name": "Selmeci utca",
+            "localityName": "1034",
+            "code": "F00684",
+            "direction": "-29",
+            "description": "2661",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00686",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CS022814": {
+            "id": "BKK_CS022814",
+            "vertex": "BKK:BKK_CS022814",
+            "lat": 47.47747,
+            "lon": 19.046937,
+            "name": "Móricz Zsigmond körtér",
+            "localityName": "1114",
+            "code": "CS022814",
+            "direction": "",
+            "description": "gvw`HkbgsB?TERGP_IbMOLSBQGMSGW?[pAuSDSp@iCBEnBgFLONIN?NJJPFV`A|N?@FbA",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FF9900",
+                "FFD800",
+                "4CA22F",
+                "000000",
+                "009EE3"
+              ],
+              "type": "PRIORITY",
+              "image": "stop-icon-M4"
+            }
+          },
+          "BKK_008864": {
+            "id": "BKK_008864",
+            "vertex": "BKK:BKK_008864",
+            "lat": 47.435991,
+            "lon": 19.04151,
+            "name": "Savoya Park",
+            "localityName": "1116",
+            "code": "008864",
+            "direction": "106",
+            "description": "509389",
+            "locationType": 0,
+            "parentStationId": "BKK_CS009578",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02462": {
+            "id": "BKK_F02462",
+            "vertex": "BKK:BKK_F02462",
+            "lat": 47.506441,
+            "lon": 19.024775,
+            "name": "Széll Kálmán tér M",
+            "localityName": "1024",
+            "code": "F02462",
+            "direction": "-145",
+            "description": "6191",
+            "locationType": 0,
+            "parentStationId": "BKK_CS073099",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410",
+              "BKK_3591"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF02129": {
+            "id": "BKK_CSF02129",
+            "vertex": "BKK:BKK_CSF02129",
+            "lat": 47.480264,
+            "lon": 19.036495,
+            "name": "Szüret utca",
+            "localityName": "1118",
+            "code": "CSF02129",
+            "direction": "",
+            "description": "qmx`HehesBNINCNFJLHR@VAXkA|HITONQDQEMOIUi@sDC[D[JUvBiC",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF02002": {
+            "id": "BKK_CSF02002",
+            "vertex": "BKK:BKK_CSF02002",
+            "lat": 47.46746,
+            "lon": 19.044018,
+            "name": "Hauszmann Alajos utca",
+            "localityName": "1119",
+            "code": "CSF02002",
+            "direction": "",
+            "description": "m{u`HmqfsBLNHTBXCXITMLQB}@AA?qBMOEMOGUCYBWHULMjAk@PCNBbBz@",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000"
+              ]
+            }
+          },
+          "BKK_F00568": {
+            "id": "BKK_F00568",
+            "vertex": "BKK:BKK_F00568",
+            "lat": 47.548489,
+            "lon": 19.028994,
+            "name": "Bécsi út / Vörösvári út",
+            "localityName": "1032",
+            "code": "F00568",
+            "direction": "",
+            "description": "2429",
+            "locationType": 0,
+            "locationSubType": "merged",
+            "parentStationId": "BKK_MERGED_F00568",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF02009": {
+            "id": "BKK_CSF02009",
+            "vertex": "BKK:BKK_CSF02009",
+            "lat": 47.462419,
+            "lon": 19.042314,
+            "name": "Etele út / Fehérvári út",
+            "localityName": "1116",
+            "code": "CSF02009",
+            "direction": "",
+            "description": "yyt`H_cfsBB\\C\\MT}DnEQHQ?QKKSeCkJE[@YHWLOdF}CNGPDLLJR|AzH",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3",
+                "F9AB13"
+              ]
+            }
+          },
+          "BKK_CS009425": {
+            "id": "BKK_CS009425",
+            "vertex": "BKK:BKK_CS009425",
+            "lat": 47.470164,
+            "lon": 19.045,
+            "name": "Csonka János tér",
+            "localityName": "1117",
+            "code": "CS009425",
+            "direction": "",
+            "description": "qlv`HawfsBLLHTBXCVGTMNODy@DOCKG_BeBKSEY@[FWNQPEPDvC|A",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000"
+              ]
+            }
+          },
+          "BKK_F02171": {
+            "id": "BKK_F02171",
+            "vertex": "BKK:BKK_F02171",
+            "lat": 47.484109,
+            "lon": 19.026812,
+            "name": "Budaörsi út / Villányi út",
+            "localityName": "1118",
+            "code": "F02171",
+            "direction": "-52",
+            "description": "5625",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02172",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02172": {
+            "id": "BKK_F02172",
+            "vertex": "BKK:BKK_F02172",
+            "lat": 47.484134,
+            "lon": 19.026586,
+            "name": "Budaörsi út / Villányi út",
+            "localityName": "1118",
+            "code": "F02172",
+            "direction": "134",
+            "description": "5627",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02172",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF00591": {
+            "id": "BKK_CSF00591",
+            "vertex": "BKK:BKK_CSF00591",
+            "lat": 47.543452,
+            "lon": 19.03029,
+            "name": "Váradi utca",
+            "localityName": "1032",
+            "code": "CSF00591",
+            "direction": "",
+            "description": "ssdaHoycsBFT@VCVITMJODgDDEA}@IOEKMGSCW@W`AiHFWNOREPFLNdDnH",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF00195": {
+            "id": "BKK_CSF00195",
+            "vertex": "BKK:BKK_CSF00195",
+            "lat": 47.510891,
+            "lon": 19.031612,
+            "name": "Mechwart liget",
+            "localityName": "1024",
+            "code": "CSF00195",
+            "direction": "",
+            "description": "qj~`HkadsBDR@TAfCEXITOLS@OGMSaDsIGW?YDYLQNIP?nAXNHJNrApD",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF00594": {
+            "id": "BKK_CSF00594",
+            "vertex": "BKK:BKK_CSF00594",
+            "lat": 47.5403,
+            "lon": 19.030993,
+            "name": "Szent Margit Kórház",
+            "localityName": "1032",
+            "code": "CSF00594",
+            "direction": "",
+            "description": "ycdaH{bdsBPCPDLNHV@ZEXKR{AnBSLUAw@[OKKUC[BYHWNMrCuA",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF02019": {
+            "id": "BKK_CSF02019",
+            "vertex": "BKK:BKK_CSF02019",
+            "lat": 47.447575,
+            "lon": 19.037514,
+            "name": "Albertfalva utca",
+            "localityName": "1116",
+            "code": "CSF02019",
+            "direction": "",
+            "description": "y`r`HajesBPDNNHV@\\EXMRQRGDe@XSDQE}@i@MOGUCWBYHULMPEtBA",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF02012": {
+            "id": "BKK_CSF02012",
+            "vertex": "BKK:BKK_CSF02012",
+            "lat": 47.455913,
+            "lon": 19.039869,
+            "name": "Andor utca",
+            "localityName": "1119",
+            "code": "CSF02012",
+            "direction": "",
+            "description": "{rs`H{uesBJTDVAZGTMPQDQAaCaAQQe@{@IUCYBYHULMNEPDxBdAJHl@v@",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_CSF00598": {
+            "id": "BKK_CSF00598",
+            "vertex": "BKK:BKK_CSF00598",
+            "lat": 47.532512,
+            "lon": 19.036553,
+            "name": "Katinyi mártírok parkja",
+            "localityName": "1034",
+            "code": "CSF00598",
+            "direction": "",
+            "description": "{sbaHmdesBNDLLFRBVAXGRq@vAMNMFQAMIKOEUIs@?WBWLg@HUNKPCj@D",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000"
+              ]
+            }
+          },
+          "BKK_CSF00234": {
+            "id": "BKK_CSF00234",
+            "vertex": "BKK:BKK_CSF00234",
+            "lat": 47.515114,
+            "lon": 19.038092,
+            "name": "Margit híd, budai hídfő",
+            "localityName": "1023",
+            "code": "CSF00234",
+            "direction": "",
+            "description": "kd_aHaresBNNHV@\\a@nQCVIRSXMLOBOCMMISiFgVCW?WFUJOLIN?xBZHBdD~A",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3",
+                "8A236C"
+              ],
+              "image": "stop-icon-H5"
+            }
+          },
+          "BKK_F02009": {
+            "id": "BKK_F02009",
+            "vertex": "BKK:BKK_F02009",
+            "lat": 47.463398,
+            "lon": 19.042572,
+            "name": "Etele út / Fehérvári út",
+            "localityName": "1119",
+            "code": "F02009",
+            "direction": "13",
+            "description": "5301",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02009",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CS009578": {
+            "id": "BKK_CS009578",
+            "vertex": "BKK:BKK_CS009578",
+            "lat": 47.436289,
+            "lon": 19.040781,
+            "name": "Savoya Park",
+            "localityName": "1116",
+            "code": "CS009578",
+            "direction": "",
+            "description": "ezo`H_gfsBJSNIP?NHLRDX?X]nDAHeC~LGTMLOBOCOKIQCW?Y`AeKDQ~AiF",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_082200": {
+            "id": "BKK_082200",
+            "vertex": "BKK:BKK_082200",
+            "lat": 47.546762,
+            "lon": 19.029194,
+            "name": "Bécsi út / Vörösvári út",
+            "localityName": "1032",
+            "code": "082200",
+            "direction": "-8",
+            "description": "645107",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF00680",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF00680": {
+            "id": "BKK_CSF00680",
+            "vertex": "BKK:BKK_CSF00680",
+            "lat": 47.548372,
+            "lon": 19.029145,
+            "name": "Bécsi út / Vörösvári út",
+            "localityName": "1032",
+            "code": "CSF00680",
+            "direction": "",
+            "description": "wmeaHmucsBLLJTBVAXIVML{JtGODQCeIiDMKISEW@YFUJQjIoHPIRBtJdE",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3",
+                "F9AB13"
+              ]
+            }
+          },
+          "BKK_F02240": {
+            "id": "BKK_F02240",
+            "vertex": "BKK:BKK_F02240",
+            "lat": 47.459178,
+            "lon": 19.041003,
+            "name": "Kalotaszeg utca",
+            "localityName": "1119",
+            "code": "F02240",
+            "direction": "-166",
+            "description": "5753",
+            "locationType": 0,
+            "parentStationId": "BKK_CS049186",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02241": {
+            "id": "BKK_F02241",
+            "vertex": "BKK:BKK_F02241",
+            "lat": 47.458827,
+            "lon": 19.040976,
+            "name": "Kalotaszeg utca",
+            "localityName": "1116",
+            "code": "F02241",
+            "direction": "14",
+            "description": "5755",
+            "locationType": 0,
+            "parentStationId": "BKK_CS049186",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02003": {
+            "id": "BKK_F02003",
+            "vertex": "BKK:BKK_F02003",
+            "lat": 47.467039,
+            "lon": 19.043919,
+            "name": "Hauszmann Alajos utca",
+            "localityName": "1117",
+            "code": "F02003",
+            "direction": "14",
+            "description": "5289",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02002",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02004": {
+            "id": "BKK_F02004",
+            "vertex": "BKK:BKK_F02004",
+            "lat": 47.467345,
+            "lon": 19.043933,
+            "name": "Hauszmann Alajos utca",
+            "localityName": "1119",
+            "code": "F02004",
+            "direction": "-166",
+            "description": "5291",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02002",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02126": {
+            "id": "BKK_F02126",
+            "vertex": "BKK:BKK_F02126",
+            "lat": 47.480283,
+            "lon": 19.036129,
+            "name": "Szüret utca",
+            "localityName": "1113",
+            "code": "F02126",
+            "direction": "122",
+            "description": "5535",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02129",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02127": {
+            "id": "BKK_F02127",
+            "vertex": "BKK:BKK_F02127",
+            "lat": 47.480185,
+            "lon": 19.036537,
+            "name": "Szüret utca",
+            "localityName": "1118",
+            "code": "F02127",
+            "direction": "-58",
+            "description": "5537",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02129",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF00686": {
+            "id": "BKK_CSF00686",
+            "vertex": "BKK:BKK_CSF00686",
+            "lat": 47.535896,
+            "lon": 19.033516,
+            "name": "Selmeci utca",
+            "localityName": "1034",
+            "code": "CSF00686",
+            "direction": "",
+            "description": "qgcaHiqdsBNFLNFT?XCVIRMLoBz@SBs@GOEMOGUAYBWHULMlB_ATCt@J",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000"
+              ]
+            }
+          },
+          "BKK_MERGED_F00568": {
+            "id": "BKK_MERGED_F00568",
+            "vertex": "BKK:BKK_MERGED_F00568",
+            "lat": 47.548489,
+            "lon": 19.028994,
+            "name": "Bécsi út / Vörösvári út",
+            "localityName": "1032",
+            "code": "F00568",
+            "direction": "",
+            "locationType": 1,
+            "locationSubType": "stop",
+            "parentStationId": "BKK_CSF00680",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3010",
+              "BKK_3011",
+              "BKK_3170",
+              "BKK_3190",
+              "BKK_3410",
+              "BKK_1370",
+              "BKK_1600",
+              "BKK_2180",
+              "BKK_2370",
+              "BKK_2600",
+              "volan_800",
+              "volan_815",
+              "volan_820",
+              "volan_821",
+              "volan_830",
+              "volan_832",
+              "volan_840",
+              "volan_848",
+              "BKK_9010",
+              "BKK_9370",
+              "BKK_9600"
+            ],
+            "stopColorType": "TRAM-BUS",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02194": {
+            "id": "BKK_F02194",
+            "vertex": "BKK:BKK_F02194",
+            "lat": 47.477248,
+            "lon": 19.047328,
+            "name": "Móricz Zsigmond körtér M",
+            "localityName": "1114",
+            "code": "F02194",
+            "direction": "5",
+            "description": "5671",
+            "locationType": 0,
+            "parentStationId": "BKK_CS022814",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560",
+              "BKK_3561",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02197": {
+            "id": "BKK_F02197",
+            "vertex": "BKK:BKK_F02197",
+            "lat": 47.478074,
+            "lon": 19.044899,
+            "name": "Móricz Zsigmond körtér M",
+            "localityName": "1114",
+            "code": "F02197",
+            "direction": "-80",
+            "description": "5677",
+            "locationType": 0,
+            "parentStationId": "BKK_CS022814",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_CSF02115": {
+            "id": "BKK_CSF02115",
+            "vertex": "BKK:BKK_CSF02115",
+            "lat": 47.482561,
+            "lon": 19.030266,
+            "name": "Alsóhegy utca",
+            "localityName": "1113",
+            "code": "CSF02115",
+            "direction": "",
+            "description": "uxx`HwycsBJVBZCXKVOLQ@wD[QIMSGY@]TsBDUJONIL?ND~BbBFH`@j@",
+            "locationType": 1,
+            "locationSubType": "stop-area",
+            "wheelchairBoarding": false,
+            "routeIds": [],
+            "stopColorType": "OTHER",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000",
+                "009EE3"
+              ]
+            }
+          },
+          "BKK_F02115": {
+            "id": "BKK_F02115",
+            "vertex": "BKK:BKK_F02115",
+            "lat": 47.482941,
+            "lon": 19.03009,
+            "name": "Alsóhegy utca",
+            "localityName": "1118",
+            "code": "F02115",
+            "direction": "-58",
+            "description": "5513",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02115",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02116": {
+            "id": "BKK_F02116",
+            "vertex": "BKK:BKK_F02116",
+            "lat": 47.482702,
+            "lon": 19.030463,
+            "name": "Alsóhegy utca",
+            "localityName": "1113",
+            "code": "F02116",
+            "direction": "121",
+            "description": "5515",
+            "locationType": 0,
+            "parentStationId": "BKK_CSF02115",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3610"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_008593": {
+            "id": "BKK_008593",
+            "vertex": "BKK:BKK_008593",
+            "lat": 47.476836,
+            "lon": 19.047188,
+            "name": "Móricz Zsigmond körtér M",
+            "localityName": "1114",
+            "code": "008593",
+            "direction": "-174",
+            "description": "508867",
+            "locationType": 0,
+            "parentStationId": "BKK_CS022814",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560",
+              "BKK_3561",
+              "BKK_3610",
+              "BKK_9730",
+              "BKK_9731"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800",
+                "000000"
+              ]
+            }
+          },
+          "BKK_F02238": {
+            "id": "BKK_F02238",
+            "vertex": "BKK:BKK_F02238",
+            "lat": 47.469783,
+            "lon": 19.044821,
+            "name": "Csonka János tér",
+            "localityName": "1119",
+            "code": "F02238",
+            "direction": "-167",
+            "description": "5749",
+            "locationType": 0,
+            "parentStationId": "BKK_CS009425",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          },
+          "BKK_F02239": {
+            "id": "BKK_F02239",
+            "vertex": "BKK:BKK_F02239",
+            "lat": 47.470259,
+            "lon": 19.045087,
+            "name": "Csonka János tér",
+            "localityName": "1117",
+            "code": "F02239",
+            "direction": "14",
+            "description": "5751",
+            "locationType": 0,
+            "parentStationId": "BKK_CS009425",
+            "type": "TRAM",
+            "wheelchairBoarding": true,
+            "routeIds": [
+              "BKK_3170",
+              "BKK_3410",
+              "BKK_3470",
+              "BKK_3480",
+              "BKK_3560"
+            ],
+            "stopColorType": "TRAM",
+            "style": {
+              "colors": [
+                "FFD800"
+              ]
+            }
+          }
+        },
+        "trips": {},
+        "alerts": {}
+      },
+      "class": "entryWithReferences"
+    }
+  }
